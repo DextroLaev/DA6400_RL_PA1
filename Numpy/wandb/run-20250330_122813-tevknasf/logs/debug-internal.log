@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:28:13.468742579+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_122813-tevknasf/logs/debug-core.log"}
+{"time":"2025-03-30T12:28:13.582440644+05:30","level":"INFO","msg":"created new stream","id":"tevknasf"}
+{"time":"2025-03-30T12:28:13.582478008+05:30","level":"INFO","msg":"stream: started","id":"tevknasf"}
+{"time":"2025-03-30T12:28:13.58253151+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tevknasf"}
+{"time":"2025-03-30T12:28:13.582541874+05:30","level":"INFO","msg":"sender: started","stream_id":"tevknasf"}
+{"time":"2025-03-30T12:28:13.582590663+05:30","level":"INFO","msg":"handler: started","stream_id":"tevknasf"}
+{"time":"2025-03-30T12:28:13.930196997+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:32:10.699401326+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:32:10.699809355+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:32:11.660776864+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.336751996,"progress":"633B/633B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.336743373,"progress":"159B/159B"},{"desc":"uploading config.yaml","runtime_seconds":0.041255969,"progress":"562B/562B"}],"total_operations":3}}
+{"time":"2025-03-30T12:32:12.18435478+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:32:13.702005555+05:30","level":"INFO","msg":"stream: closing","id":"tevknasf"}
+{"time":"2025-03-30T12:32:13.702021092+05:30","level":"INFO","msg":"handler: closed","stream_id":"tevknasf"}
+{"time":"2025-03-30T12:32:13.702030576+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tevknasf"}
+{"time":"2025-03-30T12:32:13.702038636+05:30","level":"INFO","msg":"sender: closed","stream_id":"tevknasf"}
+{"time":"2025-03-30T12:32:13.702085802+05:30","level":"INFO","msg":"stream: closed","id":"tevknasf"}

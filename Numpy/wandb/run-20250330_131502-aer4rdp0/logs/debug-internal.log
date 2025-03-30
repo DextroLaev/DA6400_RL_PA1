@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:15:02.949272831+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_131502-aer4rdp0/logs/debug-core.log"}
+{"time":"2025-03-30T13:15:03.052777368+05:30","level":"INFO","msg":"created new stream","id":"aer4rdp0"}
+{"time":"2025-03-30T13:15:03.052814197+05:30","level":"INFO","msg":"stream: started","id":"aer4rdp0"}
+{"time":"2025-03-30T13:15:03.052886339+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"aer4rdp0"}
+{"time":"2025-03-30T13:15:03.052897981+05:30","level":"INFO","msg":"sender: started","stream_id":"aer4rdp0"}
+{"time":"2025-03-30T13:15:03.052905275+05:30","level":"INFO","msg":"handler: started","stream_id":"aer4rdp0"}
+{"time":"2025-03-30T13:15:03.396628622+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:22:42.794209244+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:22:42.794660866+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:22:43.7902648+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.390878104,"progress":"636B/636B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.390869139,"progress":"159B/159B"},{"desc":"uploading config.yaml","runtime_seconds":0.094998632,"progress":"562B/562B"}],"total_operations":3}}
+{"time":"2025-03-30T13:22:44.064592805+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:22:45.181821065+05:30","level":"INFO","msg":"stream: closing","id":"aer4rdp0"}
+{"time":"2025-03-30T13:22:45.18183631+05:30","level":"INFO","msg":"handler: closed","stream_id":"aer4rdp0"}
+{"time":"2025-03-30T13:22:45.181843004+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"aer4rdp0"}
+{"time":"2025-03-30T13:22:45.181858403+05:30","level":"INFO","msg":"sender: closed","stream_id":"aer4rdp0"}
+{"time":"2025-03-30T13:22:45.18190307+05:30","level":"INFO","msg":"stream: closed","id":"aer4rdp0"}

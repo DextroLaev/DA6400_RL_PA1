@@ -1,0 +1,7 @@
+{"time":"2025-03-30T11:30:14.419555446+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_113014-tvbtanzs/logs/debug-core.log"}
+{"time":"2025-03-30T11:30:15.62637541+05:30","level":"INFO","msg":"created new stream","id":"tvbtanzs"}
+{"time":"2025-03-30T11:30:15.626408592+05:30","level":"INFO","msg":"stream: started","id":"tvbtanzs"}
+{"time":"2025-03-30T11:30:15.626427852+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tvbtanzs"}
+{"time":"2025-03-30T11:30:15.626437402+05:30","level":"INFO","msg":"sender: started","stream_id":"tvbtanzs"}
+{"time":"2025-03-30T11:30:15.626476306+05:30","level":"INFO","msg":"handler: started","stream_id":"tvbtanzs"}
+{"time":"2025-03-30T11:30:16.010370131+05:30","level":"INFO","msg":"Starting system monitor"}

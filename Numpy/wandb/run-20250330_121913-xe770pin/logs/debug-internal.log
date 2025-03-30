@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:19:13.495181954+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_121913-xe770pin/logs/debug-core.log"}
+{"time":"2025-03-30T12:19:15.004500487+05:30","level":"INFO","msg":"created new stream","id":"xe770pin"}
+{"time":"2025-03-30T12:19:15.004520287+05:30","level":"INFO","msg":"stream: started","id":"xe770pin"}
+{"time":"2025-03-30T12:19:15.004574259+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xe770pin"}
+{"time":"2025-03-30T12:19:15.004592365+05:30","level":"INFO","msg":"handler: started","stream_id":"xe770pin"}
+{"time":"2025-03-30T12:19:15.004607559+05:30","level":"INFO","msg":"sender: started","stream_id":"xe770pin"}
+{"time":"2025-03-30T12:19:15.434375087+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:20:00.478465133+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:20:00.478999106+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:20:01.441296759+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.34707818,"progress":"592B/592B"},{"desc":"uploading history steps 0-9901, summary, console lines 9-10","runtime_seconds":0.260529025}],"total_operations":2}}
+{"time":"2025-03-30T12:20:01.442022789+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:20:02.220702868+05:30","level":"INFO","msg":"stream: closing","id":"xe770pin"}
+{"time":"2025-03-30T12:20:02.220720394+05:30","level":"INFO","msg":"handler: closed","stream_id":"xe770pin"}
+{"time":"2025-03-30T12:20:02.220731924+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xe770pin"}
+{"time":"2025-03-30T12:20:02.220793142+05:30","level":"INFO","msg":"sender: closed","stream_id":"xe770pin"}
+{"time":"2025-03-30T12:20:02.220896821+05:30","level":"INFO","msg":"stream: closed","id":"xe770pin"}

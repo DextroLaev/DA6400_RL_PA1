@@ -1,0 +1,5 @@
+Training using Sarsa...
+Episode: 0 Reward:-  14.0
+Episode: 1000 Reward:-  25.0
+Episode: 2000 Reward:-  30.0
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

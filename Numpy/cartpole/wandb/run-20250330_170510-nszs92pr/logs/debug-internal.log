@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:05:10.178294818+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_170510-nszs92pr/logs/debug-core.log"}
+{"time":"2025-03-30T17:05:10.28176771+05:30","level":"INFO","msg":"created new stream","id":"nszs92pr"}
+{"time":"2025-03-30T17:05:10.28182688+05:30","level":"INFO","msg":"stream: started","id":"nszs92pr"}
+{"time":"2025-03-30T17:05:10.281831295+05:30","level":"INFO","msg":"handler: started","stream_id":"nszs92pr"}
+{"time":"2025-03-30T17:05:10.281842772+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nszs92pr"}
+{"time":"2025-03-30T17:05:10.281906382+05:30","level":"INFO","msg":"sender: started","stream_id":"nszs92pr"}
+{"time":"2025-03-30T17:05:10.6089236+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:06:54.674252114+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:06:54.674642906+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:06:55.640294596+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.344625971,"progress":"317B/317B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.34461884,"progress":"162B/162B"},{"desc":"uploading config.yaml","runtime_seconds":0.031815749,"progress":"562B/562B"}],"total_operations":3}}
+{"time":"2025-03-30T17:06:55.972943833+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:06:56.72733123+05:30","level":"INFO","msg":"stream: closing","id":"nszs92pr"}
+{"time":"2025-03-30T17:06:56.727339699+05:30","level":"INFO","msg":"handler: closed","stream_id":"nszs92pr"}
+{"time":"2025-03-30T17:06:56.727344288+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nszs92pr"}
+{"time":"2025-03-30T17:06:56.72734813+05:30","level":"INFO","msg":"sender: closed","stream_id":"nszs92pr"}
+{"time":"2025-03-30T17:06:56.727376691+05:30","level":"INFO","msg":"stream: closed","id":"nszs92pr"}

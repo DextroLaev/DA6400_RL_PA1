@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:33:20.425534011+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_173320-dkijzgv7/logs/debug-core.log"}
+{"time":"2025-03-30T17:33:20.528500104+05:30","level":"INFO","msg":"created new stream","id":"dkijzgv7"}
+{"time":"2025-03-30T17:33:20.528529672+05:30","level":"INFO","msg":"stream: started","id":"dkijzgv7"}
+{"time":"2025-03-30T17:33:20.528643551+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dkijzgv7"}
+{"time":"2025-03-30T17:33:20.528643833+05:30","level":"INFO","msg":"handler: started","stream_id":"dkijzgv7"}
+{"time":"2025-03-30T17:33:20.528666791+05:30","level":"INFO","msg":"sender: started","stream_id":"dkijzgv7"}
+{"time":"2025-03-30T17:33:20.878354006+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:35:07.792551046+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:35:07.793036007+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:35:08.783286216+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.379964307,"progress":"651B/651B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.379956329,"progress":"138B/138B"},{"desc":"uploading config.yaml","runtime_seconds":0.088867683,"progress":"563B/563B"}],"total_operations":3}}
+{"time":"2025-03-30T17:35:09.776903428+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:35:10.774957637+05:30","level":"INFO","msg":"stream: closing","id":"dkijzgv7"}
+{"time":"2025-03-30T17:35:10.774966238+05:30","level":"INFO","msg":"handler: closed","stream_id":"dkijzgv7"}
+{"time":"2025-03-30T17:35:10.774971473+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dkijzgv7"}
+{"time":"2025-03-30T17:35:10.774981812+05:30","level":"INFO","msg":"sender: closed","stream_id":"dkijzgv7"}
+{"time":"2025-03-30T17:35:10.775005778+05:30","level":"INFO","msg":"stream: closed","id":"dkijzgv7"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:40:50.932396995+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_174050-tip5c4kx/logs/debug-core.log"}
+{"time":"2025-03-30T17:40:51.034573446+05:30","level":"INFO","msg":"created new stream","id":"tip5c4kx"}
+{"time":"2025-03-30T17:40:51.034589655+05:30","level":"INFO","msg":"stream: started","id":"tip5c4kx"}
+{"time":"2025-03-30T17:40:51.03488718+05:30","level":"INFO","msg":"sender: started","stream_id":"tip5c4kx"}
+{"time":"2025-03-30T17:40:51.034907649+05:30","level":"INFO","msg":"handler: started","stream_id":"tip5c4kx"}
+{"time":"2025-03-30T17:40:51.034941126+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tip5c4kx"}
+{"time":"2025-03-30T17:40:51.368339145+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:43:15.311476577+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:43:15.311995507+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:43:16.274157288+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.255505343,"progress":"325B/325B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.255499244,"progress":"172B/172B"}],"total_operations":2}}
+{"time":"2025-03-30T17:43:16.740136391+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:43:17.535263514+05:30","level":"INFO","msg":"stream: closing","id":"tip5c4kx"}
+{"time":"2025-03-30T17:43:17.535274039+05:30","level":"INFO","msg":"handler: closed","stream_id":"tip5c4kx"}
+{"time":"2025-03-30T17:43:17.535278939+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tip5c4kx"}
+{"time":"2025-03-30T17:43:17.535283537+05:30","level":"INFO","msg":"sender: closed","stream_id":"tip5c4kx"}
+{"time":"2025-03-30T17:43:17.535322405+05:30","level":"INFO","msg":"stream: closed","id":"tip5c4kx"}

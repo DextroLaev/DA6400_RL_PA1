@@ -1,0 +1,31 @@
+Training using Sarsa...
+Episode: 0 Reward:-  12.0
+Episode: 1000 Reward:-  14.0
+Episode: 2000 Reward:-  13.0
+Episode: 3000 Reward:-  53.0
+Episode: 4000 Reward:-  185.0
+Episode: 5000 Reward:-  51.0
+Episode: 6000 Reward:-  500.0
+Episode: 7000 Reward:-  134.0
+Episode: 8000 Reward:-  260.0
+Episode: 9000 Reward:-  500.0
+Episode: 10000 Reward:-  300.0
+Episode: 11000 Reward:-  442.0
+Episode: 12000 Reward:-  439.0
+Episode: 13000 Reward:-  253.0
+Episode: 14000 Reward:-  405.0
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Exception ignored in atexit callback: <function _start_and_connect_service.<locals>.teardown_atexit at 0x720d6886fec0>
+Traceback (most recent call last):
+  File "/home/dextrolaev/Desktop/RL/RL_ENV/lib/python3.12/site-packages/wandb/sdk/lib/service_connection.py", line 94, in teardown_atexit
+    conn.teardown(hooks.exit_code)
+  File "/home/dextrolaev/Desktop/RL/RL_ENV/lib/python3.12/site-packages/wandb/sdk/lib/service_connection.py", line 226, in teardown
+    self._router.join()
+  File "/home/dextrolaev/Desktop/RL/RL_ENV/lib/python3.12/site-packages/wandb/sdk/interface/router.py", line 75, in join
+    self._thread.join()
+  File "/usr/lib/python3.12/threading.py", line 1147, in join
+    self._wait_for_tstate_lock()
+  File "/usr/lib/python3.12/threading.py", line 1167, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt:

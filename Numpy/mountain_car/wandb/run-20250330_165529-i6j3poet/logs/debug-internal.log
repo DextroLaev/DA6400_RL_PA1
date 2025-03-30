@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:55:29.230764155+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_165529-i6j3poet/logs/debug-core.log"}
+{"time":"2025-03-30T16:55:29.333693625+05:30","level":"INFO","msg":"created new stream","id":"i6j3poet"}
+{"time":"2025-03-30T16:55:29.333730238+05:30","level":"INFO","msg":"stream: started","id":"i6j3poet"}
+{"time":"2025-03-30T16:55:29.333751538+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"i6j3poet"}
+{"time":"2025-03-30T16:55:29.33378813+05:30","level":"INFO","msg":"handler: started","stream_id":"i6j3poet"}
+{"time":"2025-03-30T16:55:29.33382475+05:30","level":"INFO","msg":"sender: started","stream_id":"i6j3poet"}
+{"time":"2025-03-30T16:55:29.697618279+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:58:21.83163956+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:58:21.832170363+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:58:22.790317309+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.348555066,"progress":"655B/655B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.348546499,"progress":"151B/151B"},{"desc":"uploading config.yaml","runtime_seconds":0.073416091,"progress":"561B/561B"}],"total_operations":3}}
+{"time":"2025-03-30T16:58:23.072729311+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:58:23.955972318+05:30","level":"INFO","msg":"stream: closing","id":"i6j3poet"}
+{"time":"2025-03-30T16:58:23.955989604+05:30","level":"INFO","msg":"handler: closed","stream_id":"i6j3poet"}
+{"time":"2025-03-30T16:58:23.956010363+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"i6j3poet"}
+{"time":"2025-03-30T16:58:23.956071164+05:30","level":"INFO","msg":"sender: closed","stream_id":"i6j3poet"}
+{"time":"2025-03-30T16:58:23.956104146+05:30","level":"INFO","msg":"stream: closed","id":"i6j3poet"}

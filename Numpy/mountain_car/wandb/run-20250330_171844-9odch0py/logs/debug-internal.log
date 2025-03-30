@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:18:44.132624739+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_171844-9odch0py/logs/debug-core.log"}
+{"time":"2025-03-30T17:18:44.237004954+05:30","level":"INFO","msg":"created new stream","id":"9odch0py"}
+{"time":"2025-03-30T17:18:44.237050706+05:30","level":"INFO","msg":"stream: started","id":"9odch0py"}
+{"time":"2025-03-30T17:18:44.237075105+05:30","level":"INFO","msg":"handler: started","stream_id":"9odch0py"}
+{"time":"2025-03-30T17:18:44.237093888+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9odch0py"}
+{"time":"2025-03-30T17:18:44.237111874+05:30","level":"INFO","msg":"sender: started","stream_id":"9odch0py"}
+{"time":"2025-03-30T17:18:44.582256583+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:23:11.598612138+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:23:11.599128724+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:23:12.55816336+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.358681003,"progress":"656B/656B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.358666347,"progress":"151B/151B"}],"total_operations":2}}
+{"time":"2025-03-30T17:23:12.995926039+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:23:13.890330451+05:30","level":"INFO","msg":"stream: closing","id":"9odch0py"}
+{"time":"2025-03-30T17:23:13.890346694+05:30","level":"INFO","msg":"handler: closed","stream_id":"9odch0py"}
+{"time":"2025-03-30T17:23:13.890353688+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9odch0py"}
+{"time":"2025-03-30T17:23:13.89036266+05:30","level":"INFO","msg":"sender: closed","stream_id":"9odch0py"}
+{"time":"2025-03-30T17:23:13.890410744+05:30","level":"INFO","msg":"stream: closed","id":"9odch0py"}

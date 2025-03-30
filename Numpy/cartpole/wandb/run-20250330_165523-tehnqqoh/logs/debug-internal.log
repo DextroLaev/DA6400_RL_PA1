@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:55:23.016819138+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_165523-tehnqqoh/logs/debug-core.log"}
+{"time":"2025-03-30T16:55:23.121218699+05:30","level":"INFO","msg":"created new stream","id":"tehnqqoh"}
+{"time":"2025-03-30T16:55:23.121265742+05:30","level":"INFO","msg":"stream: started","id":"tehnqqoh"}
+{"time":"2025-03-30T16:55:23.121291353+05:30","level":"INFO","msg":"handler: started","stream_id":"tehnqqoh"}
+{"time":"2025-03-30T16:55:23.121307402+05:30","level":"INFO","msg":"sender: started","stream_id":"tehnqqoh"}
+{"time":"2025-03-30T16:55:23.121299583+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tehnqqoh"}
+{"time":"2025-03-30T16:55:23.449108757+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:00:08.195442454+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:00:08.195941236+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:00:09.155228275+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.334252869,"progress":"632B/632B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.334244362,"progress":"163B/163B"},{"desc":"uploading config.yaml","runtime_seconds":0.037661016,"progress":"564B/564B"}],"total_operations":3}}
+{"time":"2025-03-30T17:00:09.546980709+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:00:10.453122994+05:30","level":"INFO","msg":"stream: closing","id":"tehnqqoh"}
+{"time":"2025-03-30T17:00:10.453137673+05:30","level":"INFO","msg":"handler: closed","stream_id":"tehnqqoh"}
+{"time":"2025-03-30T17:00:10.453147385+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tehnqqoh"}
+{"time":"2025-03-30T17:00:10.453151196+05:30","level":"INFO","msg":"sender: closed","stream_id":"tehnqqoh"}
+{"time":"2025-03-30T17:00:10.453214634+05:30","level":"INFO","msg":"stream: closed","id":"tehnqqoh"}

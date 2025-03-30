@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:03:41.063833903+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_170341-o5pe93if/logs/debug-core.log"}
+{"time":"2025-03-30T17:03:41.167653913+05:30","level":"INFO","msg":"created new stream","id":"o5pe93if"}
+{"time":"2025-03-30T17:03:41.167676504+05:30","level":"INFO","msg":"stream: started","id":"o5pe93if"}
+{"time":"2025-03-30T17:03:41.167744246+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"o5pe93if"}
+{"time":"2025-03-30T17:03:41.167750716+05:30","level":"INFO","msg":"sender: started","stream_id":"o5pe93if"}
+{"time":"2025-03-30T17:03:41.16777259+05:30","level":"INFO","msg":"handler: started","stream_id":"o5pe93if"}
+{"time":"2025-03-30T17:03:41.790699186+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:05:02.86851919+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:05:02.869066732+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:05:03.841630851+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.379127051,"progress":"136B/136B"},{"desc":"uploading config.yaml","runtime_seconds":0.072406191,"progress":"562B/562B"}],"total_operations":2}}
+{"time":"2025-03-30T17:05:04.38565131+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:05:05.433730372+05:30","level":"INFO","msg":"stream: closing","id":"o5pe93if"}
+{"time":"2025-03-30T17:05:05.433752811+05:30","level":"INFO","msg":"handler: closed","stream_id":"o5pe93if"}
+{"time":"2025-03-30T17:05:05.433762627+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"o5pe93if"}
+{"time":"2025-03-30T17:05:05.433842642+05:30","level":"INFO","msg":"sender: closed","stream_id":"o5pe93if"}
+{"time":"2025-03-30T17:05:05.43385451+05:30","level":"INFO","msg":"stream: closed","id":"o5pe93if"}

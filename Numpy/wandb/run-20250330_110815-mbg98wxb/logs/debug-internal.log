@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:08:15.203974859+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_110815-mbg98wxb/logs/debug-core.log"}
+{"time":"2025-03-30T11:08:15.312479323+05:30","level":"INFO","msg":"created new stream","id":"mbg98wxb"}
+{"time":"2025-03-30T11:08:15.312596574+05:30","level":"INFO","msg":"stream: started","id":"mbg98wxb"}
+{"time":"2025-03-30T11:08:15.312843371+05:30","level":"INFO","msg":"handler: started","stream_id":"mbg98wxb"}
+{"time":"2025-03-30T11:08:15.31283968+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mbg98wxb"}
+{"time":"2025-03-30T11:08:15.313036876+05:30","level":"INFO","msg":"sender: started","stream_id":"mbg98wxb"}
+{"time":"2025-03-30T11:08:15.699705129+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:09:41.472652314+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:09:41.473027908+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:09:42.474879422+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.394135223,"progress":"117B/117B"},{"desc":"uploading config.yaml","runtime_seconds":0.10312137,"progress":"620B/620B"}],"total_operations":2}}
+{"time":"2025-03-30T11:09:42.74745848+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:09:43.126630259+05:30","level":"INFO","msg":"stream: closing","id":"mbg98wxb"}
+{"time":"2025-03-30T11:09:43.126643215+05:30","level":"INFO","msg":"handler: closed","stream_id":"mbg98wxb"}
+{"time":"2025-03-30T11:09:43.126649361+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mbg98wxb"}
+{"time":"2025-03-30T11:09:43.126661452+05:30","level":"INFO","msg":"sender: closed","stream_id":"mbg98wxb"}
+{"time":"2025-03-30T11:09:43.126700116+05:30","level":"INFO","msg":"stream: closed","id":"mbg98wxb"}

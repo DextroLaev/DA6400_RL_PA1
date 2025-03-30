@@ -1,0 +1,12 @@
+wandb_version: 1
+
+alpha:
+  value: 0.2
+episodes:
+  value: 20000
+steps:
+  value: 300
+tau_end:
+  value: 0.2
+tau_start:
+  value: 3

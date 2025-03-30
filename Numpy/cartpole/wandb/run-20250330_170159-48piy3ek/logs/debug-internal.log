@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:01:59.069087681+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_170159-48piy3ek/logs/debug-core.log"}
+{"time":"2025-03-30T17:01:59.172599574+05:30","level":"INFO","msg":"created new stream","id":"48piy3ek"}
+{"time":"2025-03-30T17:01:59.172631829+05:30","level":"INFO","msg":"stream: started","id":"48piy3ek"}
+{"time":"2025-03-30T17:01:59.172654482+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"48piy3ek"}
+{"time":"2025-03-30T17:01:59.172759697+05:30","level":"INFO","msg":"sender: started","stream_id":"48piy3ek"}
+{"time":"2025-03-30T17:01:59.172766796+05:30","level":"INFO","msg":"handler: started","stream_id":"48piy3ek"}
+{"time":"2025-03-30T17:01:59.514214531+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:03:35.279334658+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:03:35.279833077+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:03:36.241010151+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.189354124,"progress":"320B/320B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.189345124,"progress":"136B/136B"}],"total_operations":2}}
+{"time":"2025-03-30T17:03:36.712078481+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:03:37.307599121+05:30","level":"INFO","msg":"stream: closing","id":"48piy3ek"}
+{"time":"2025-03-30T17:03:37.307613001+05:30","level":"INFO","msg":"handler: closed","stream_id":"48piy3ek"}
+{"time":"2025-03-30T17:03:37.307622447+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"48piy3ek"}
+{"time":"2025-03-30T17:03:37.307668828+05:30","level":"INFO","msg":"sender: closed","stream_id":"48piy3ek"}
+{"time":"2025-03-30T17:03:37.307694161+05:30","level":"INFO","msg":"stream: closed","id":"48piy3ek"}

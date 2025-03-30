@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:57:13.985877207+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_165713-ew3ln5yy/logs/debug-core.log"}
+{"time":"2025-03-30T16:57:14.089679081+05:30","level":"INFO","msg":"created new stream","id":"ew3ln5yy"}
+{"time":"2025-03-30T16:57:14.089707766+05:30","level":"INFO","msg":"stream: started","id":"ew3ln5yy"}
+{"time":"2025-03-30T16:57:14.089736411+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ew3ln5yy"}
+{"time":"2025-03-30T16:57:14.089840221+05:30","level":"INFO","msg":"sender: started","stream_id":"ew3ln5yy"}
+{"time":"2025-03-30T16:57:14.08985763+05:30","level":"INFO","msg":"handler: started","stream_id":"ew3ln5yy"}
+{"time":"2025-03-30T16:57:14.604350787+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:59:19.264860204+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:59:19.26541178+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:59:20.265776192+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.39236932,"progress":"652B/652B"},{"desc":"uploading config.yaml","runtime_seconds":0.087186239,"progress":"564B/564B"}],"total_operations":2}}
+{"time":"2025-03-30T16:59:21.238547326+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:59:22.364566118+05:30","level":"INFO","msg":"stream: closing","id":"ew3ln5yy"}
+{"time":"2025-03-30T16:59:22.364578013+05:30","level":"INFO","msg":"handler: closed","stream_id":"ew3ln5yy"}
+{"time":"2025-03-30T16:59:22.36458356+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ew3ln5yy"}
+{"time":"2025-03-30T16:59:22.364595972+05:30","level":"INFO","msg":"sender: closed","stream_id":"ew3ln5yy"}
+{"time":"2025-03-30T16:59:22.364629076+05:30","level":"INFO","msg":"stream: closed","id":"ew3ln5yy"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:23:17.630654663+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_172317-drbtpwes/logs/debug-core.log"}
+{"time":"2025-03-30T17:23:17.734891122+05:30","level":"INFO","msg":"created new stream","id":"drbtpwes"}
+{"time":"2025-03-30T17:23:17.734937955+05:30","level":"INFO","msg":"stream: started","id":"drbtpwes"}
+{"time":"2025-03-30T17:23:17.734958091+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"drbtpwes"}
+{"time":"2025-03-30T17:23:17.734977897+05:30","level":"INFO","msg":"handler: started","stream_id":"drbtpwes"}
+{"time":"2025-03-30T17:23:17.735017912+05:30","level":"INFO","msg":"sender: started","stream_id":"drbtpwes"}
+{"time":"2025-03-30T17:23:18.085044801+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:25:56.121205718+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:25:56.121701855+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:25:57.122321093+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.394187776,"progress":"655B/655B"},{"desc":"uploading config.yaml","runtime_seconds":0.102610215,"progress":"561B/561B"}],"total_operations":2}}
+{"time":"2025-03-30T17:25:58.048015292+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:25:59.33667477+05:30","level":"INFO","msg":"stream: closing","id":"drbtpwes"}
+{"time":"2025-03-30T17:25:59.336688392+05:30","level":"INFO","msg":"handler: closed","stream_id":"drbtpwes"}
+{"time":"2025-03-30T17:25:59.336696061+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"drbtpwes"}
+{"time":"2025-03-30T17:25:59.336708242+05:30","level":"INFO","msg":"sender: closed","stream_id":"drbtpwes"}
+{"time":"2025-03-30T17:25:59.336746253+05:30","level":"INFO","msg":"stream: closed","id":"drbtpwes"}

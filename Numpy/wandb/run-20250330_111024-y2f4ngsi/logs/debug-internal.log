@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:10:24.541937947+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_111024-y2f4ngsi/logs/debug-core.log"}
+{"time":"2025-03-30T11:10:26.060323298+05:30","level":"INFO","msg":"created new stream","id":"y2f4ngsi"}
+{"time":"2025-03-30T11:10:26.060362879+05:30","level":"INFO","msg":"stream: started","id":"y2f4ngsi"}
+{"time":"2025-03-30T11:10:26.060429315+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y2f4ngsi"}
+{"time":"2025-03-30T11:10:26.06047233+05:30","level":"INFO","msg":"handler: started","stream_id":"y2f4ngsi"}
+{"time":"2025-03-30T11:10:26.060505543+05:30","level":"INFO","msg":"sender: started","stream_id":"y2f4ngsi"}
+{"time":"2025-03-30T11:10:26.424646048+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:11:01.93728534+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:11:01.937848742+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:11:02.939189987+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.225232861,"progress":"317B/317B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2252233,"progress":"117B/117B"}],"total_operations":2}}
+{"time":"2025-03-30T11:11:03.397778069+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:11:03.735977757+05:30","level":"INFO","msg":"stream: closing","id":"y2f4ngsi"}
+{"time":"2025-03-30T11:11:03.735993278+05:30","level":"INFO","msg":"handler: closed","stream_id":"y2f4ngsi"}
+{"time":"2025-03-30T11:11:03.736006823+05:30","level":"INFO","msg":"sender: closed","stream_id":"y2f4ngsi"}
+{"time":"2025-03-30T11:11:03.736001656+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y2f4ngsi"}
+{"time":"2025-03-30T11:11:03.736057054+05:30","level":"INFO","msg":"stream: closed","id":"y2f4ngsi"}

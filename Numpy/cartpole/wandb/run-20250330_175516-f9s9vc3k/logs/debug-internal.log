@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:55:16.53126017+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_175516-f9s9vc3k/logs/debug-core.log"}
+{"time":"2025-03-30T17:55:16.63470463+05:30","level":"INFO","msg":"created new stream","id":"f9s9vc3k"}
+{"time":"2025-03-30T17:55:16.634732319+05:30","level":"INFO","msg":"stream: started","id":"f9s9vc3k"}
+{"time":"2025-03-30T17:55:16.634767794+05:30","level":"INFO","msg":"handler: started","stream_id":"f9s9vc3k"}
+{"time":"2025-03-30T17:55:16.634787141+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"f9s9vc3k"}
+{"time":"2025-03-30T17:55:16.634856276+05:30","level":"INFO","msg":"sender: started","stream_id":"f9s9vc3k"}
+{"time":"2025-03-30T17:55:17.007218425+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:58:53.406366534+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:58:53.406811651+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:58:54.38246249+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.364127111,"progress":"633B/633B"},{"desc":"uploading config.yaml","runtime_seconds":0.063884679,"progress":"563B/563B"}],"total_operations":2}}
+{"time":"2025-03-30T17:58:54.671467621+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:58:55.658798988+05:30","level":"INFO","msg":"stream: closing","id":"f9s9vc3k"}
+{"time":"2025-03-30T17:58:55.658839634+05:30","level":"INFO","msg":"handler: closed","stream_id":"f9s9vc3k"}
+{"time":"2025-03-30T17:58:55.658850726+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"f9s9vc3k"}
+{"time":"2025-03-30T17:58:55.658867744+05:30","level":"INFO","msg":"sender: closed","stream_id":"f9s9vc3k"}
+{"time":"2025-03-30T17:58:55.658945311+05:30","level":"INFO","msg":"stream: closed","id":"f9s9vc3k"}

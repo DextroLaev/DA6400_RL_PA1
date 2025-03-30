@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:58:29.694577101+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_165829-i3fj85bm/logs/debug-core.log"}
+{"time":"2025-03-30T16:58:29.797600921+05:30","level":"INFO","msg":"created new stream","id":"i3fj85bm"}
+{"time":"2025-03-30T16:58:29.797640378+05:30","level":"INFO","msg":"stream: started","id":"i3fj85bm"}
+{"time":"2025-03-30T16:58:29.797670217+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"i3fj85bm"}
+{"time":"2025-03-30T16:58:29.797670238+05:30","level":"INFO","msg":"handler: started","stream_id":"i3fj85bm"}
+{"time":"2025-03-30T16:58:29.797729228+05:30","level":"INFO","msg":"sender: started","stream_id":"i3fj85bm"}
+{"time":"2025-03-30T16:58:30.12241185+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:01:48.564255192+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:01:48.564864103+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:01:49.565763761+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.394976271,"progress":"655B/655B"},{"desc":"uploading config.yaml","runtime_seconds":0.10433118,"progress":"560B/560B"}],"total_operations":2}}
+{"time":"2025-03-30T17:01:49.837851149+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:01:51.255076819+05:30","level":"INFO","msg":"stream: closing","id":"i3fj85bm"}
+{"time":"2025-03-30T17:01:51.255095761+05:30","level":"INFO","msg":"handler: closed","stream_id":"i3fj85bm"}
+{"time":"2025-03-30T17:01:51.255117517+05:30","level":"INFO","msg":"sender: closed","stream_id":"i3fj85bm"}
+{"time":"2025-03-30T17:01:51.255116896+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"i3fj85bm"}
+{"time":"2025-03-30T17:01:51.255187393+05:30","level":"INFO","msg":"stream: closed","id":"i3fj85bm"}

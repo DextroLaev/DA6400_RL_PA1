@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:14:51.397984559+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_171451-i1wpop1z/logs/debug-core.log"}
+{"time":"2025-03-30T17:14:51.502252331+05:30","level":"INFO","msg":"created new stream","id":"i1wpop1z"}
+{"time":"2025-03-30T17:14:51.502282574+05:30","level":"INFO","msg":"stream: started","id":"i1wpop1z"}
+{"time":"2025-03-30T17:14:51.502306702+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"i1wpop1z"}
+{"time":"2025-03-30T17:14:51.502314458+05:30","level":"INFO","msg":"sender: started","stream_id":"i1wpop1z"}
+{"time":"2025-03-30T17:14:51.502376638+05:30","level":"INFO","msg":"handler: started","stream_id":"i1wpop1z"}
+{"time":"2025-03-30T17:14:51.855039111+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:18:38.261197857+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:18:38.261787697+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:18:39.262228935+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.418555496,"progress":"175B/175B"},{"desc":"uploading config.yaml","runtime_seconds":0.135866022,"progress":"561B/561B"}],"total_operations":2}}
+{"time":"2025-03-30T17:18:39.498398756+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:18:40.38084845+05:30","level":"INFO","msg":"stream: closing","id":"i1wpop1z"}
+{"time":"2025-03-30T17:18:40.380871162+05:30","level":"INFO","msg":"handler: closed","stream_id":"i1wpop1z"}
+{"time":"2025-03-30T17:18:40.38088207+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"i1wpop1z"}
+{"time":"2025-03-30T17:18:40.380892299+05:30","level":"INFO","msg":"sender: closed","stream_id":"i1wpop1z"}
+{"time":"2025-03-30T17:18:40.380957561+05:30","level":"INFO","msg":"stream: closed","id":"i1wpop1z"}

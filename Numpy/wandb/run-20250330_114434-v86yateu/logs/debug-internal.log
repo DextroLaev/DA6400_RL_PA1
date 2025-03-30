@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:44:34.764618763+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_114434-v86yateu/logs/debug-core.log"}
+{"time":"2025-03-30T11:44:34.866868817+05:30","level":"INFO","msg":"created new stream","id":"v86yateu"}
+{"time":"2025-03-30T11:44:34.866888945+05:30","level":"INFO","msg":"stream: started","id":"v86yateu"}
+{"time":"2025-03-30T11:44:34.86694715+05:30","level":"INFO","msg":"sender: started","stream_id":"v86yateu"}
+{"time":"2025-03-30T11:44:34.866946439+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"v86yateu"}
+{"time":"2025-03-30T11:44:34.86697959+05:30","level":"INFO","msg":"handler: started","stream_id":"v86yateu"}
+{"time":"2025-03-30T11:44:35.203596925+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:45:28.819680983+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:45:28.820115242+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:45:29.820692619+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.387734181,"progress":"318B/318B"}],"total_operations":1}}
+{"time":"2025-03-30T11:45:30.771528314+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:45:31.255866048+05:30","level":"INFO","msg":"stream: closing","id":"v86yateu"}
+{"time":"2025-03-30T11:45:31.255881376+05:30","level":"INFO","msg":"handler: closed","stream_id":"v86yateu"}
+{"time":"2025-03-30T11:45:31.255890247+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"v86yateu"}
+{"time":"2025-03-30T11:45:31.2558996+05:30","level":"INFO","msg":"sender: closed","stream_id":"v86yateu"}
+{"time":"2025-03-30T11:45:31.255938552+05:30","level":"INFO","msg":"stream: closed","id":"v86yateu"}

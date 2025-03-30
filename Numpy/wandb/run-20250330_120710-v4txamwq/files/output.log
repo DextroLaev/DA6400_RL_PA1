@@ -1,0 +1,20 @@
+Training using Sarsa...
+Episode: 0 Reward:-  14.0
+Episode: 1000 Reward:-  20.0
+Episode: 2000 Reward:-  20.0
+Episode: 3000 Reward:-  73.0
+Episode: 4000 Reward:-  86.0
+Episode: 5000 Reward:-  106.0
+Episode: 6000 Reward:-  23.0
+Episode: 7000 Reward:-  113.0
+Episode: 8000 Reward:-  457.0
+Episode: 9000 Reward:-  500.0
+Episode: 10000 Reward:-  500.0
+Episode: 11000 Reward:-  412.0
+Episode: 12000 Reward:-  500.0
+Episode: 13000 Reward:-  138.0
+Episode: 14000 Reward:-  356.0
+Episode: 15000 Reward:-  500.0
+Episode: 16000 Reward:-  176.0
+Episode: 17000 Reward:-  433.0
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:36:13.367733966+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_113613-hluoa5lh/logs/debug-core.log"}
+{"time":"2025-03-30T11:36:14.876944963+05:30","level":"INFO","msg":"created new stream","id":"hluoa5lh"}
+{"time":"2025-03-30T11:36:14.876989967+05:30","level":"INFO","msg":"stream: started","id":"hluoa5lh"}
+{"time":"2025-03-30T11:36:14.877031592+05:30","level":"INFO","msg":"handler: started","stream_id":"hluoa5lh"}
+{"time":"2025-03-30T11:36:14.877042142+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hluoa5lh"}
+{"time":"2025-03-30T11:36:14.877055785+05:30","level":"INFO","msg":"sender: started","stream_id":"hluoa5lh"}
+{"time":"2025-03-30T11:36:15.241661679+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:38:51.947453036+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:38:51.94795075+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:38:52.92175373+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.209137171,"progress":"624B/624B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.209125908,"progress":"476B/476B"}],"total_operations":2}}
+{"time":"2025-03-30T11:38:53.363301215+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:38:55.681491749+05:30","level":"INFO","msg":"stream: closing","id":"hluoa5lh"}
+{"time":"2025-03-30T11:38:55.68149783+05:30","level":"INFO","msg":"handler: closed","stream_id":"hluoa5lh"}
+{"time":"2025-03-30T11:38:55.681501932+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hluoa5lh"}
+{"time":"2025-03-30T11:38:55.681515154+05:30","level":"INFO","msg":"sender: closed","stream_id":"hluoa5lh"}
+{"time":"2025-03-30T11:38:55.681550947+05:30","level":"INFO","msg":"stream: closed","id":"hluoa5lh"}

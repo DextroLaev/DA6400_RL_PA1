@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:28:15.119536949+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_172815-dclyfrwa/logs/debug-core.log"}
+{"time":"2025-03-30T17:28:15.222184874+05:30","level":"INFO","msg":"created new stream","id":"dclyfrwa"}
+{"time":"2025-03-30T17:28:15.222215393+05:30","level":"INFO","msg":"stream: started","id":"dclyfrwa"}
+{"time":"2025-03-30T17:28:15.222291682+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dclyfrwa"}
+{"time":"2025-03-30T17:28:15.222331392+05:30","level":"INFO","msg":"sender: started","stream_id":"dclyfrwa"}
+{"time":"2025-03-30T17:28:15.222327661+05:30","level":"INFO","msg":"handler: started","stream_id":"dclyfrwa"}
+{"time":"2025-03-30T17:28:15.557607316+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:30:16.313208972+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:30:16.313866913+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:30:16.964269241+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-19380, summary, console lines 18-20","runtime_seconds":0.640932319},{"desc":"updating run config","runtime_seconds":0.298599417}],"total_operations":2}}
+{"time":"2025-03-30T17:30:17.632899492+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:30:17.961928317+05:30","level":"INFO","msg":"stream: closing","id":"dclyfrwa"}
+{"time":"2025-03-30T17:30:17.961945788+05:30","level":"INFO","msg":"handler: closed","stream_id":"dclyfrwa"}
+{"time":"2025-03-30T17:30:17.961959928+05:30","level":"INFO","msg":"sender: closed","stream_id":"dclyfrwa"}
+{"time":"2025-03-30T17:30:17.96195568+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dclyfrwa"}
+{"time":"2025-03-30T17:30:17.962009877+05:30","level":"INFO","msg":"stream: closed","id":"dclyfrwa"}
