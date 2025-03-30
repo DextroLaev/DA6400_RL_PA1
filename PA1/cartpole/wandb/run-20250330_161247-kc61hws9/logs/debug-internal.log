@@ -1,0 +1,15 @@
+{"time":"2025-03-30T16:12:47.859535155+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/cartpole/wandb/run-20250330_161247-kc61hws9/logs/debug-core.log"}
+{"time":"2025-03-30T16:12:47.964820123+05:30","level":"INFO","msg":"created new stream","id":"kc61hws9"}
+{"time":"2025-03-30T16:12:47.96485053+05:30","level":"INFO","msg":"stream: started","id":"kc61hws9"}
+{"time":"2025-03-30T16:12:47.964880837+05:30","level":"INFO","msg":"sender: started","stream_id":"kc61hws9"}
+{"time":"2025-03-30T16:12:47.964876038+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kc61hws9"}
+{"time":"2025-03-30T16:12:47.964887209+05:30","level":"INFO","msg":"handler: started","stream_id":"kc61hws9"}
+{"time":"2025-03-30T16:12:48.278320017+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:13:04.667748409+05:30","level":"INFO","msg":"stream: closing","id":"kc61hws9"}
+{"time":"2025-03-30T16:13:04.667778836+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:13:04.66811063+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:13:05.709546087+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:13:06.018882353+05:30","level":"INFO","msg":"handler: closed","stream_id":"kc61hws9"}
+{"time":"2025-03-30T16:13:06.01890767+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kc61hws9"}
+{"time":"2025-03-30T16:13:06.018951563+05:30","level":"INFO","msg":"sender: closed","stream_id":"kc61hws9"}
+{"time":"2025-03-30T16:13:06.018969577+05:30","level":"INFO","msg":"stream: closed","id":"kc61hws9"}

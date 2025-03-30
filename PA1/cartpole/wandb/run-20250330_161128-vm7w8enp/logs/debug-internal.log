@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:11:28.599414684+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/cartpole/wandb/run-20250330_161128-vm7w8enp/logs/debug-core.log"}
+{"time":"2025-03-30T16:11:28.703448266+05:30","level":"INFO","msg":"created new stream","id":"vm7w8enp"}
+{"time":"2025-03-30T16:11:28.703481279+05:30","level":"INFO","msg":"stream: started","id":"vm7w8enp"}
+{"time":"2025-03-30T16:11:28.703498561+05:30","level":"INFO","msg":"handler: started","stream_id":"vm7w8enp"}
+{"time":"2025-03-30T16:11:28.703504853+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vm7w8enp"}
+{"time":"2025-03-30T16:11:28.703518288+05:30","level":"INFO","msg":"sender: started","stream_id":"vm7w8enp"}
+{"time":"2025-03-30T16:11:29.031546544+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:12:39.40154606+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:12:39.402759321+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:12:40.365210456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.383635337,"progress":"1.2KB/1.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.383625428,"progress":"187B/187B"},{"desc":"uploading config.yaml","runtime_seconds":0.112598767,"progress":"622B/622B"}],"total_operations":3}}
+{"time":"2025-03-30T16:12:41.501253717+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:12:42.118331363+05:30","level":"INFO","msg":"stream: closing","id":"vm7w8enp"}
+{"time":"2025-03-30T16:12:42.118346832+05:30","level":"INFO","msg":"handler: closed","stream_id":"vm7w8enp"}
+{"time":"2025-03-30T16:12:42.118355749+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vm7w8enp"}
+{"time":"2025-03-30T16:12:42.118376808+05:30","level":"INFO","msg":"sender: closed","stream_id":"vm7w8enp"}
+{"time":"2025-03-30T16:12:42.118396145+05:30","level":"INFO","msg":"stream: closed","id":"vm7w8enp"}

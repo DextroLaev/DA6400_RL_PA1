@@ -1,0 +1,10 @@
+ 20%|████████████████████████                                                                                                | 2/10 [00:14<00:58,  7.31s/it][34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Episode 0-1000: Average Reward: 47.614
+Test Episode 0: Average Reward: 306.0
+
+Episode 1000-2000: Average Reward: 136.979
+Test Episode 1: Average Reward: 211.0
+
+Create sweep with ID: 276qxpn2
+Sweep URL: https://wandb.ai/da24d402-indian-instite-of-technology-madras/CartPole_SARSA/sweeps/276qxpn2
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
