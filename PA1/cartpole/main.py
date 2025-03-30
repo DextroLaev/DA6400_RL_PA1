@@ -241,8 +241,8 @@ def sweep_run_qlearning_softmax():
 
 
 if __name__ == '__main__':
-    sweep_run_qlearning_softmax()
-    sweep_run_sarsa_epsilon()
+    # sweep_run_qlearning_softmax()
+    # sweep_run_sarsa_epsilon()
     
     os.makedirs('results_seeds', exist_ok=True)
     env = Environment()
@@ -255,8 +255,8 @@ if __name__ == '__main__':
         np.savetxt(f'results_seeds/q_learning_softmax_rewards_{i}.txt', rewards)
         
         agent = SARSAEpsGreedy(env=env, epsilon_start=0.9, epsilon_end=0.01)
-        rewards, eval_rewards = train_sarsa_epsilon(rng, env, agent)
-        np.savetxt(f'results_seeds/sarsa_epsilon_rewards_{i}.txt', rewards, num_episodes_steps=20_000)
+        rewards, eval_rewards = train_sarsa_epsilon(rng, env, agent, num_episodes_steps=20_000)
+        np.savetxt(f'results_seeds/sarsa_epsilon_rewards_{i}.txt', rewards)
         
     for tau_start in [2,1]:
         for tau_end in [0.01,0.02]:

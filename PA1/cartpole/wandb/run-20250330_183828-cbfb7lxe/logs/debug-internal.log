@@ -1,0 +1,16 @@
+{"time":"2025-03-30T18:38:28.270688849+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/cartpole/wandb/run-20250330_183828-cbfb7lxe/logs/debug-core.log"}
+{"time":"2025-03-30T18:38:28.374167271+05:30","level":"INFO","msg":"created new stream","id":"cbfb7lxe"}
+{"time":"2025-03-30T18:38:28.374195033+05:30","level":"INFO","msg":"stream: started","id":"cbfb7lxe"}
+{"time":"2025-03-30T18:38:28.374211544+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cbfb7lxe"}
+{"time":"2025-03-30T18:38:28.374231812+05:30","level":"INFO","msg":"handler: started","stream_id":"cbfb7lxe"}
+{"time":"2025-03-30T18:38:28.374217666+05:30","level":"INFO","msg":"sender: started","stream_id":"cbfb7lxe"}
+{"time":"2025-03-30T18:38:28.684691369+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T18:43:17.035025499+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T18:43:17.035368806+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T18:43:18.035731868+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.40181366,"progress":"2.0KB/2.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.401807007,"progress":"190B/190B"},{"desc":"uploading config.yaml","runtime_seconds":0.133205026,"progress":"623B/623B"}],"total_operations":3}}
+{"time":"2025-03-30T18:43:18.430928401+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T18:43:18.729366611+05:30","level":"INFO","msg":"stream: closing","id":"cbfb7lxe"}
+{"time":"2025-03-30T18:43:18.7293764+05:30","level":"INFO","msg":"handler: closed","stream_id":"cbfb7lxe"}
+{"time":"2025-03-30T18:43:18.729383533+05:30","level":"INFO","msg":"sender: closed","stream_id":"cbfb7lxe"}
+{"time":"2025-03-30T18:43:18.729382982+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cbfb7lxe"}
+{"time":"2025-03-30T18:43:18.729426524+05:30","level":"INFO","msg":"stream: closed","id":"cbfb7lxe"}

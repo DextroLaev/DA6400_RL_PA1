@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [02:36<03:00, 18.05s/it]
+Episode 0-1000: Average Reward: 25.981
+Test Episode 0: Average Reward: 207.0
+
+Episode 1000-2000: Average Reward: 133.022
+Test Episode 1: Average Reward: 234.5
+
+Episode 2000-3000: Average Reward: 288.772
+Test Episode 2: Average Reward: 260.3333333333333
+
+Episode 3000-4000: Average Reward: 298.717
+Test Episode 3: Average Reward: 290.5
+
+Episode 4000-5000: Average Reward: 317.241
+Test Episode 4: Average Reward: 269.2
+
+Episode 5000-6000: Average Reward: 312.519
+Test Episode 5: Average Reward: 256.8333333333333
+
+Episode 6000-7000: Average Reward: 312.364
+Test Episode 6: Average Reward: 256.42857142857144
+
+Episode 7000-8000: Average Reward: 284.317
+Test Episode 7: Average Reward: 267.25
+
+Episode 8000-9000: Average Reward: 279.419
+Test Episode 8: Average Reward: 278.8888888888889
+
+Episode 9000-10000: Average Reward: 351.781
+Test Episode 9: Average Reward: 278.7
+
+Episode 10000-11000: Average Reward: 343.958
+Test Episode 10: Average Reward: 279.6363636363636
+
+Episode 11000-12000: Average Reward: 347.862
+Test Episode 11: Average Reward: 277.6666666666667
+
+Episode 12000-13000: Average Reward: 343.564
+Test Episode 12: Average Reward: 288.15384615384613
+
+Episode 13000-14000: Average Reward: 346.741
+Test Episode 13: Average Reward: 289.07142857142856
+
+Episode 14000-15000: Average Reward: 346.99
+Test Episode 14: Average Reward: 289.26666666666665
+
+Episode 15000-16000: Average Reward: 347.251
+Test Episode 15: Average Reward: 300.625
+
+Episode 16000-17000: Average Reward: 349.054
+Test Episode 16: Average Reward: 296.88235294117646
+
+Episode 17000-18000: Average Reward: 343.336
+Test Episode 17: Average Reward: 308.1666666666667
+
+Episode 18000-19000: Average Reward: 348.892
+Test Episode 18: Average Reward: 308.7894736842105
+
+Episode 19000-20000: Average Reward: 345.01
+Test Episode 19: Average Reward: 306.15

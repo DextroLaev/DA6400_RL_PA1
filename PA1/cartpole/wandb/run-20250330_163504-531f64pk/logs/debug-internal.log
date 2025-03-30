@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:35:04.675569759+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/cartpole/wandb/run-20250330_163504-531f64pk/logs/debug-core.log"}
+{"time":"2025-03-30T16:35:04.779381767+05:30","level":"INFO","msg":"created new stream","id":"531f64pk"}
+{"time":"2025-03-30T16:35:04.77940958+05:30","level":"INFO","msg":"stream: started","id":"531f64pk"}
+{"time":"2025-03-30T16:35:04.779424648+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"531f64pk"}
+{"time":"2025-03-30T16:35:04.779429087+05:30","level":"INFO","msg":"handler: started","stream_id":"531f64pk"}
+{"time":"2025-03-30T16:35:04.779444697+05:30","level":"INFO","msg":"sender: started","stream_id":"531f64pk"}
+{"time":"2025-03-30T16:35:05.327418116+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:41:05.271229236+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:41:05.271635786+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:41:06.23014299+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.368981377,"progress":"2.0KB/2.0KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.368975366,"progress":"191B/191B"},{"desc":"uploading history steps 19-19, summary, console lines 57-59","runtime_seconds":0.203098278},{"desc":"uploading config.yaml","runtime_seconds":0.068345695,"progress":"623B/623B"}],"total_operations":4}}
+{"time":"2025-03-30T16:41:07.250524757+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:41:07.519515923+05:30","level":"INFO","msg":"stream: closing","id":"531f64pk"}
+{"time":"2025-03-30T16:41:07.519526323+05:30","level":"INFO","msg":"handler: closed","stream_id":"531f64pk"}
+{"time":"2025-03-30T16:41:07.519537664+05:30","level":"INFO","msg":"sender: closed","stream_id":"531f64pk"}
+{"time":"2025-03-30T16:41:07.519533336+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"531f64pk"}
+{"time":"2025-03-30T16:41:07.519565517+05:30","level":"INFO","msg":"stream: closed","id":"531f64pk"}

@@ -21,3 +21,10 @@ config: {'_wandb': {}}
 2025-03-30 16:17:20,129 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_redirect():2292] Wrapping output streams.
 2025-03-30 16:17:20,129 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_redirect():2315] Redirects installed.
 2025-03-30 16:17:20,130 INFO    Thread-4 (_run_job):26844 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-30 16:21:05,939 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_finish():2112] finishing run da24d402-indian-instite-of-technology-madras/CartPole_QLEARNING/p0491y46
+2025-03-30 16:21:05,939 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-30 16:21:05,939 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_restore():2322] restore
+2025-03-30 16:21:05,939 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_restore():2328] restore done
+2025-03-30 16:21:07,471 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-30 16:21:07,471 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-30 16:21:07,471 INFO    Thread-4 (_run_job):26844 [wandb_run.py:_footer_sync_info():3917] logging synced files

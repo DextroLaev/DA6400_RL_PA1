@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [01:15<01:22,  8.29s/it]
+Episode 0-1000: Average Reward: 66.921
+Test Episode 0: Average Reward: 221.0
+
+Episode 1000-2000: Average Reward: 111.559
+Test Episode 1: Average Reward: 200.0
+
+Episode 2000-3000: Average Reward: 122.856
+Test Episode 2: Average Reward: 189.66666666666666
+
+Episode 3000-4000: Average Reward: 124.713
+Test Episode 3: Average Reward: 191.75
+
+Episode 4000-5000: Average Reward: 124.996
+Test Episode 4: Average Reward: 179.6
+
+Episode 5000-6000: Average Reward: 128.037
+Test Episode 5: Average Reward: 167.5
+
+Episode 6000-7000: Average Reward: 131.015
+Test Episode 6: Average Reward: 166.14285714285714
+
+Episode 7000-8000: Average Reward: 137.558
+Test Episode 7: Average Reward: 164.625
+
+Episode 8000-9000: Average Reward: 145.945
+Test Episode 8: Average Reward: 162.88888888888889
+
+Episode 9000-10000: Average Reward: 154.997
+Test Episode 9: Average Reward: 162.7
+
+Episode 10000-11000: Average Reward: 153.303
+Test Episode 10: Average Reward: 159.36363636363637
+
+Episode 11000-12000: Average Reward: 150.26
+Test Episode 11: Average Reward: 162.91666666666666
+
+Episode 12000-13000: Average Reward: 152.161
+Test Episode 12: Average Reward: 159.23076923076923
+
+Episode 13000-14000: Average Reward: 145.845
+Test Episode 13: Average Reward: 157.21428571428572
+
+Episode 14000-15000: Average Reward: 144.226
+Test Episode 14: Average Reward: 155.13333333333333
+
+Episode 15000-16000: Average Reward: 145.64
+Test Episode 15: Average Reward: 158.25
+
+Episode 16000-17000: Average Reward: 144.275
+Test Episode 16: Average Reward: 156.7058823529412
+
+Episode 17000-18000: Average Reward: 147.301
+Test Episode 17: Average Reward: 155.0
+
+Episode 18000-19000: Average Reward: 146.646
+Test Episode 18: Average Reward: 153.6315789473684
+
+Episode 19000-20000: Average Reward: 146.356
+Test Episode 19: Average Reward: 155.85

@@ -1,0 +1,48 @@
+{
+  "os": "Linux-6.12.19-1-MANJARO-x86_64-with-glibc2.41",
+  "python": "CPython 3.12.9",
+  "startedAt": "2025-03-30T13:08:28.269047Z",
+  "program": "/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/cartpole/main.py",
+  "codePath": "Classes/DA6400_RL/PA1/cartpole/main.py",
+  "git": {
+    "remote": "https://github.com/TheUnsolvedDev/IIT_Madras_days.git",
+    "commit": "383c4100466b4ab6bf7b16a6749a17bf138e855e"
+  },
+  "email": "da24d402@smail.iitm.ac.in",
+  "root": "/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/cartpole",
+  "host": "desktop",
+  "executable": "/home/shuvrajeet/miniconda3/envs/jax/bin/python3",
+  "codePathLocal": "main.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 4060 Ti",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "479787274240",
+      "used": "193984524288"
+    }
+  },
+  "memory": {
+    "total": "134932238336"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4060 Ti",
+      "memoryTotal": "17175674880",
+      "cudaCores": 4352,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4060 Ti",
+      "memoryTotal": "17175674880",
+      "cudaCores": 4352,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
