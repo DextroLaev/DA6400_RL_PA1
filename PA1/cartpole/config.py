@@ -1,8 +1,0 @@
-import jax
-
-RNG = jax.random.PRNGKey(0)
-NUM_SIM_STEPS = int(5e+4)
-BINS = 25
-ALPHA = 0.1
-GAMMA = 0.99
-TEST_INTERVAL = NUM_SIM_STEPS//25
