@@ -65,8 +65,6 @@ Q(s,a) ← Q(s,a) + α[r + γ Q(s',a') - Q(s,a)]
    - Lower final exploration rates (ε_end=0.01) led to better convergence
    - Learning rates needed to be smaller (α=0.05-0.1) for stable learning
 
-## Code Structure
-## Getting Started
 ### Prerequisites
 - Python 3.8+
 - JAX
@@ -90,7 +88,7 @@ pip install -r requirements.txt
 ```
 
 ## Team Members
-- Shuvrajee Das [DA24D402] (IIT Madras, DSAI Dept)  
+- Shuvrajeet Das [DA24D402] (IIT Madras, DSAI Dept)  
   [da24d402@smail.iitm.ac.in] | [shuvrajeet17@gmail.com]
 
 - Rajshekhar Rakshit [CS24S031]  (IIT Madras, CSE Dept)  
