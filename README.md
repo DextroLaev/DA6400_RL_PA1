@@ -76,8 +76,7 @@ Q(s,a) ← Q(s,a) + α[r + γ Q(s',a') - Q(s,a)]
 pip install -r requirements.txt
 ```
 
-### Running Experiments (for example: cartpole)
-
+### Running Experiments in Jax (for example: cartpole)
 
 ```bash
   cd Jax
@@ -85,6 +84,16 @@ pip install -r requirements.txt
 ```
 ```bash
   python main.py
+```
+
+### Running Experiments in Numpy (for example: cartpole)
+
+```bash
+  cd Numpy
+  cd cartpole
+```
+```bash
+  python CartPole.py
 ```
 
 ## Team Members
