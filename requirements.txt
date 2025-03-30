@@ -1,0 +1,7 @@
+jax[cuda12]
+numpy
+matplotlib
+wandb
+tqdm
+gymnax
+gymnasium
