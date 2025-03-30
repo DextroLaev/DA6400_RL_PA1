@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:25:12.951859824+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_132512-jmp5pvob/logs/debug-core.log"}
+{"time":"2025-03-30T13:25:13.055375036+05:30","level":"INFO","msg":"created new stream","id":"jmp5pvob"}
+{"time":"2025-03-30T13:25:13.055402699+05:30","level":"INFO","msg":"stream: started","id":"jmp5pvob"}
+{"time":"2025-03-30T13:25:13.055417456+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jmp5pvob"}
+{"time":"2025-03-30T13:25:13.055437464+05:30","level":"INFO","msg":"handler: started","stream_id":"jmp5pvob"}
+{"time":"2025-03-30T13:25:13.055423307+05:30","level":"INFO","msg":"sender: started","stream_id":"jmp5pvob"}
+{"time":"2025-03-30T13:25:13.384450908+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:28:33.666764345+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:28:33.66714333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:28:34.627336072+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.96042499}],"total_operations":1}}
+{"time":"2025-03-30T13:28:36.275526241+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:28:36.906267149+05:30","level":"INFO","msg":"stream: closing","id":"jmp5pvob"}
+{"time":"2025-03-30T13:28:36.906276847+05:30","level":"INFO","msg":"handler: closed","stream_id":"jmp5pvob"}
+{"time":"2025-03-30T13:28:36.906283229+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jmp5pvob"}
+{"time":"2025-03-30T13:28:36.906287447+05:30","level":"INFO","msg":"sender: closed","stream_id":"jmp5pvob"}
+{"time":"2025-03-30T13:28:36.906332692+05:30","level":"INFO","msg":"stream: closed","id":"jmp5pvob"}

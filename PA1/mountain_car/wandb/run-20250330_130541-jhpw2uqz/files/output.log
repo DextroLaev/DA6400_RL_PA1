@@ -1,0 +1,30 @@
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [02:59<00:00, 17.93s/it]
+Episode 0-1000: Average Reward: -483.903
+Test Episode 0: Average Reward: -166.0
+
+Episode 1000-2000: Average Reward: -369.224
+Test Episode 1: Average Reward: -143.5
+
+Episode 2000-3000: Average Reward: -248.281
+Test Episode 2: Average Reward: -154.66666666666666
+
+Episode 3000-4000: Average Reward: -197.762
+Test Episode 3: Average Reward: -147.75
+
+Episode 4000-5000: Average Reward: -158.637
+Test Episode 4: Average Reward: -149.0
+
+Episode 5000-6000: Average Reward: -148.662
+Test Episode 5: Average Reward: -142.66666666666666
+
+Episode 6000-7000: Average Reward: -128.747
+Test Episode 6: Average Reward: -138.85714285714286
+
+Episode 7000-8000: Average Reward: -125.112
+Test Episode 7: Average Reward: -141.125
+
+Episode 8000-9000: Average Reward: -135.37
+Test Episode 8: Average Reward: -142.66666666666666
+
+Episode 9000-10000: Average Reward: -164.682
+Test Episode 9: Average Reward: -140.0

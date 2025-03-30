@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [02:24<01:36,  9.69s/it]
+Episode 0-1000: Average Reward: -477.935
+Test Episode 0: Average Reward: -161.0
+
+Episode 1000-2000: Average Reward: -403.234
+Test Episode 1: Average Reward: -139.5
+
+Episode 2000-3000: Average Reward: -303.132
+Test Episode 2: Average Reward: -144.33333333333334
+
+Episode 3000-4000: Average Reward: -229.788
+Test Episode 3: Average Reward: -141.0
+
+Episode 4000-5000: Average Reward: -189.312
+Test Episode 4: Average Reward: -142.8
+
+Episode 5000-6000: Average Reward: -162.093
+Test Episode 5: Average Reward: -138.5
+
+Episode 6000-7000: Average Reward: -165.558
+Test Episode 6: Average Reward: -135.28571428571428
+
+Episode 7000-8000: Average Reward: -133.914
+Test Episode 7: Average Reward: -139.375
+
+Episode 8000-9000: Average Reward: -131.785
+Test Episode 8: Average Reward: -140.44444444444446
+
+Episode 9000-10000: Average Reward: -129.649
+Test Episode 9: Average Reward: -140.3
+
+Episode 10000-11000: Average Reward: -128.185
+Test Episode 10: Average Reward: -140.0909090909091
+
+Episode 11000-12000: Average Reward: -128.597
+Test Episode 11: Average Reward: -138.25
+
+Episode 12000-13000: Average Reward: -135.969
+Test Episode 12: Average Reward: -136.15384615384616
+
+Episode 13000-14000: Average Reward: -125.294
+Test Episode 13: Average Reward: -135.85714285714286
+
+Episode 14000-15000: Average Reward: -121.321
+Test Episode 14: Average Reward: -135.6
+
+Episode 15000-16000: Average Reward: -121.181
+Test Episode 15: Average Reward: -133.875
+
+Episode 16000-17000: Average Reward: -120.444
+Test Episode 16: Average Reward: -134.23529411764707
+
+Episode 17000-18000: Average Reward: -121.023
+Test Episode 17: Average Reward: -132.83333333333334
+
+Episode 18000-19000: Average Reward: -120.042
+Test Episode 18: Average Reward: -131.73684210526315
+
+Episode 19000-20000: Average Reward: -120.567
+Test Episode 19: Average Reward: -131.6

@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [03:58<02:51, 17.14s/it]
+Episode 0-1000: Average Reward: -485.049
+Test Episode 0: Average Reward: -193.0
+
+Episode 1000-2000: Average Reward: -430.521
+Test Episode 1: Average Reward: -194.5
+
+Episode 2000-3000: Average Reward: -373.853
+Test Episode 2: Average Reward: -180.66666666666666
+
+Episode 3000-4000: Average Reward: -315.736
+Test Episode 3: Average Reward: -184.0
+
+Episode 4000-5000: Average Reward: -254.486
+Test Episode 4: Average Reward: -179.2
+
+Episode 5000-6000: Average Reward: -231.774
+Test Episode 5: Average Reward: -168.16666666666666
+
+Episode 6000-7000: Average Reward: -213.696
+Test Episode 6: Average Reward: -171.57142857142858
+
+Episode 7000-8000: Average Reward: -196.736
+Test Episode 7: Average Reward: -169.25
+
+Episode 8000-9000: Average Reward: -177.501
+Test Episode 8: Average Reward: -166.11111111111111
+
+Episode 9000-10000: Average Reward: -171.522
+Test Episode 9: Average Reward: -164.8
+
+Episode 10000-11000: Average Reward: -163.904
+Test Episode 10: Average Reward: -163.72727272727272
+
+Episode 11000-12000: Average Reward: -182.411
+Test Episode 11: Average Reward: -165.08333333333334
+
+Episode 12000-13000: Average Reward: -166.47
+Test Episode 12: Average Reward: -168.07692307692307
+
+Episode 13000-14000: Average Reward: -167.707
+Test Episode 13: Average Reward: -167.42857142857142
+
+Episode 14000-15000: Average Reward: -167.245
+Test Episode 14: Average Reward: -167.66666666666666
+
+Episode 15000-16000: Average Reward: -163.014
+Test Episode 15: Average Reward: -168.625
+
+Episode 16000-17000: Average Reward: -177.067
+Test Episode 16: Average Reward: -169.0
+
+Episode 17000-18000: Average Reward: -187.428
+Test Episode 17: Average Reward: -170.38888888888889
+
+Episode 18000-19000: Average Reward: -162.438
+Test Episode 18: Average Reward: -169.6315789473684
+
+Episode 19000-20000: Average Reward: -171.595
+Test Episode 19: Average Reward: -173.5

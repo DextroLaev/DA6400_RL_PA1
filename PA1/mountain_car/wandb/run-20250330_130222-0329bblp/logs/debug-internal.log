@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:02:22.14572977+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_130222-0329bblp/logs/debug-core.log"}
+{"time":"2025-03-30T13:02:22.249075897+05:30","level":"INFO","msg":"created new stream","id":"0329bblp"}
+{"time":"2025-03-30T13:02:22.24910406+05:30","level":"INFO","msg":"stream: started","id":"0329bblp"}
+{"time":"2025-03-30T13:02:22.249120901+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0329bblp"}
+{"time":"2025-03-30T13:02:22.249135258+05:30","level":"INFO","msg":"handler: started","stream_id":"0329bblp"}
+{"time":"2025-03-30T13:02:22.249126742+05:30","level":"INFO","msg":"sender: started","stream_id":"0329bblp"}
+{"time":"2025-03-30T13:02:22.547970332+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:05:28.486841112+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:05:28.487706423+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:05:29.446401134+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.362713794,"progress":"1.2KB/1.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.081318172,"progress":"626B/626B"}],"total_operations":2}}
+{"time":"2025-03-30T13:05:29.72200216+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:05:30.327787342+05:30","level":"INFO","msg":"stream: closing","id":"0329bblp"}
+{"time":"2025-03-30T13:05:30.327797231+05:30","level":"INFO","msg":"handler: closed","stream_id":"0329bblp"}
+{"time":"2025-03-30T13:05:30.327803843+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0329bblp"}
+{"time":"2025-03-30T13:05:30.327810586+05:30","level":"INFO","msg":"sender: closed","stream_id":"0329bblp"}
+{"time":"2025-03-30T13:05:30.327843608+05:30","level":"INFO","msg":"stream: closed","id":"0329bblp"}

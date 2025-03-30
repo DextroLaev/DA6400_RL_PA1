@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:34:54.085927266+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_123454-ufjlfa9e/logs/debug-core.log"}
+{"time":"2025-03-30T12:34:54.189940242+05:30","level":"INFO","msg":"created new stream","id":"ufjlfa9e"}
+{"time":"2025-03-30T12:34:54.189967393+05:30","level":"INFO","msg":"stream: started","id":"ufjlfa9e"}
+{"time":"2025-03-30T12:34:54.18998676+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ufjlfa9e"}
+{"time":"2025-03-30T12:34:54.190001117+05:30","level":"INFO","msg":"sender: started","stream_id":"ufjlfa9e"}
+{"time":"2025-03-30T12:34:54.190001938+05:30","level":"INFO","msg":"handler: started","stream_id":"ufjlfa9e"}
+{"time":"2025-03-30T12:34:54.496232262+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:39:15.023785473+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:39:15.024171991+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:39:15.982931862+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.360173277,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.360163078,"progress":"194B/194B"},{"desc":"uploading config.yaml","runtime_seconds":0.080806239,"progress":"624B/624B"}],"total_operations":3}}
+{"time":"2025-03-30T12:39:16.241064221+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:39:16.586899526+05:30","level":"INFO","msg":"stream: closing","id":"ufjlfa9e"}
+{"time":"2025-03-30T12:39:16.58691262+05:30","level":"INFO","msg":"handler: closed","stream_id":"ufjlfa9e"}
+{"time":"2025-03-30T12:39:16.586927128+05:30","level":"INFO","msg":"sender: closed","stream_id":"ufjlfa9e"}
+{"time":"2025-03-30T12:39:16.586943589+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ufjlfa9e"}
+{"time":"2025-03-30T12:39:16.586990477+05:30","level":"INFO","msg":"stream: closed","id":"ufjlfa9e"}

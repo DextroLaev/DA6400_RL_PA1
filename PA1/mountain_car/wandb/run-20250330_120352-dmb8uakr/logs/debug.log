@@ -1,0 +1,24 @@
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_setup.py:_flush():67] Configure stats pid to 82684
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_setup.py:_flush():67] Loading settings from /home/shuvrajeet/.config/wandb/settings
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_setup.py:_flush():67] Loading settings from /home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/settings
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_120352-dmb8uakr/logs/debug.log
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_120352-dmb8uakr/logs/debug-internal.log
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():761] calling init triggers
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():766] wandb.init called with sweep_config: {'alpha': 0.1, 'episodes': 20000, 'tau_end': 0.01, 'tau_start': 2}
+config: {'_wandb': {}}
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():784] starting backend
+2025-03-30 12:03:52,101 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():788] sending inform_init request
+2025-03-30 12:03:52,105 INFO    Thread-4 (_run_job):82684 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-30 12:03:52,105 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():798] backend started and connected
+2025-03-30 12:03:52,105 INFO    Thread-4 (_run_job):82684 [wandb_run.py:_config_callback():1261] config_cb None None {'alpha': 0.1, 'episodes': 20000, 'tau_end': 0.01, 'tau_start': 2}
+2025-03-30 12:03:52,106 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():891] updated telemetry
+2025-03-30 12:03:52,110 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-30 12:03:52,533 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():990] starting run threads in backend
+2025-03-30 12:03:52,618 INFO    Thread-4 (_run_job):82684 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-30 12:03:52,618 INFO    Thread-4 (_run_job):82684 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-30 12:03:52,618 INFO    Thread-4 (_run_job):82684 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-30 12:03:52,618 INFO    Thread-4 (_run_job):82684 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-30 12:03:52,619 INFO    Thread-4 (_run_job):82684 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-30 12:04:22,618 INFO    MsgRouterThr:82684 [mailbox.py:close():129] Closing mailbox, abandoning 2 handles.

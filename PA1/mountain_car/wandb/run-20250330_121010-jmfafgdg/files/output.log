@@ -1,0 +1,12 @@
+ 20%|████████████████████████                                                                                                | 4/20 [01:52<07:09, 26.85s/it][34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Episode 0-1000: Average Reward: -493.112
+Test Episode 0: Average Reward: -370.0
+
+Episode 1000-2000: Average Reward: -481.163
+Test Episode 1: Average Reward: -252.0
+
+Episode 2000-3000: Average Reward: -453.518
+Test Episode 2: Average Reward: -222.66666666666666
+
+Episode 3000-4000: Average Reward: -376.855
+Test Episode 3: Average Reward: -201.25

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:05:37.772778827+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_120537-pzprtrkm/logs/debug-core.log"}
+{"time":"2025-03-30T12:05:37.875810485+05:30","level":"INFO","msg":"created new stream","id":"pzprtrkm"}
+{"time":"2025-03-30T12:05:37.875839099+05:30","level":"INFO","msg":"stream: started","id":"pzprtrkm"}
+{"time":"2025-03-30T12:05:37.87585528+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pzprtrkm"}
+{"time":"2025-03-30T12:05:37.875867753+05:30","level":"INFO","msg":"handler: started","stream_id":"pzprtrkm"}
+{"time":"2025-03-30T12:05:37.87586092+05:30","level":"INFO","msg":"sender: started","stream_id":"pzprtrkm"}
+{"time":"2025-03-30T12:05:38.221635802+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:11:21.397267748+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:11:21.397632586+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:11:22.358143489+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.359719699,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.359708649,"progress":"193B/193B"},{"desc":"uploading config.yaml","runtime_seconds":0.105529245,"progress":"604B/604B"}],"total_operations":3}}
+{"time":"2025-03-30T12:11:22.700261232+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:11:23.025570844+05:30","level":"INFO","msg":"stream: closing","id":"pzprtrkm"}
+{"time":"2025-03-30T12:11:23.025591042+05:30","level":"INFO","msg":"handler: closed","stream_id":"pzprtrkm"}
+{"time":"2025-03-30T12:11:23.025609918+05:30","level":"INFO","msg":"sender: closed","stream_id":"pzprtrkm"}
+{"time":"2025-03-30T12:11:23.025603636+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pzprtrkm"}
+{"time":"2025-03-30T12:11:23.025661214+05:30","level":"INFO","msg":"stream: closed","id":"pzprtrkm"}

@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [02:51<01:54, 11.41s/it]
+Episode 0-1000: Average Reward: -491.338
+Test Episode 0: Average Reward: -160.0
+
+Episode 1000-2000: Average Reward: -450.131
+Test Episode 1: Average Reward: -138.5
+
+Episode 2000-3000: Average Reward: -404.632
+Test Episode 2: Average Reward: -144.0
+
+Episode 3000-4000: Average Reward: -329.33
+Test Episode 3: Average Reward: -137.0
+
+Episode 4000-5000: Average Reward: -251.079
+Test Episode 4: Average Reward: -142.4
+
+Episode 5000-6000: Average Reward: -201.19
+Test Episode 5: Average Reward: -137.5
+
+Episode 6000-7000: Average Reward: -173.019
+Test Episode 6: Average Reward: -134.85714285714286
+
+Episode 7000-8000: Average Reward: -158.849
+Test Episode 7: Average Reward: -137.625
+
+Episode 8000-9000: Average Reward: -155.456
+Test Episode 8: Average Reward: -138.88888888888889
+
+Episode 9000-10000: Average Reward: -147.068
+Test Episode 9: Average Reward: -141.1
+
+Episode 10000-11000: Average Reward: -141.264
+Test Episode 10: Average Reward: -142.63636363636363
+
+Episode 11000-12000: Average Reward: -171.519
+Test Episode 11: Average Reward: -145.16666666666666
+
+Episode 12000-13000: Average Reward: -147.521
+Test Episode 12: Average Reward: -144.07692307692307
+
+Episode 13000-14000: Average Reward: -160.061
+Test Episode 13: Average Reward: -144.21428571428572
+
+Episode 14000-15000: Average Reward: -144.261
+Test Episode 14: Average Reward: -144.86666666666667
+
+Episode 15000-16000: Average Reward: -131.049
+Test Episode 15: Average Reward: -142.9375
+
+Episode 16000-17000: Average Reward: -130.588
+Test Episode 16: Average Reward: -143.58823529411765
+
+Episode 17000-18000: Average Reward: -131.24
+Test Episode 17: Average Reward: -141.77777777777777
+
+Episode 18000-19000: Average Reward: -128.063
+Test Episode 18: Average Reward: -140.1578947368421
+
+Episode 19000-20000: Average Reward: -130.597
+Test Episode 19: Average Reward: -140.35

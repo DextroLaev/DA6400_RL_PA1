@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/main.py", line 390, in <module>
+    sweep_run_sarsa_epsilon()
+  File "/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/main.py", line 367, in sweep_run_sarsa_epsilon
+    wandb.agent.run(sweep_id = sweep_id,function=run_sweep,count = 20)
+    ^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'run'

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:39:27.339536402+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_123927-nyqumpkt/logs/debug-core.log"}
+{"time":"2025-03-30T12:39:27.442809962+05:30","level":"INFO","msg":"created new stream","id":"nyqumpkt"}
+{"time":"2025-03-30T12:39:27.442838075+05:30","level":"INFO","msg":"stream: started","id":"nyqumpkt"}
+{"time":"2025-03-30T12:39:27.44285147+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nyqumpkt"}
+{"time":"2025-03-30T12:39:27.442871949+05:30","level":"INFO","msg":"sender: started","stream_id":"nyqumpkt"}
+{"time":"2025-03-30T12:39:27.442859285+05:30","level":"INFO","msg":"handler: started","stream_id":"nyqumpkt"}
+{"time":"2025-03-30T12:39:27.766821565+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:43:09.290403746+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:43:09.290820712+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:43:10.251254449+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3306004,"progress":"2.1KB/2.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.330592635,"progress":"193B/193B"},{"desc":"uploading config.yaml","runtime_seconds":0.047446745,"progress":"623B/623B"}],"total_operations":3}}
+{"time":"2025-03-30T12:43:10.542345522+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:43:10.846376472+05:30","level":"INFO","msg":"stream: closing","id":"nyqumpkt"}
+{"time":"2025-03-30T12:43:10.846389487+05:30","level":"INFO","msg":"handler: closed","stream_id":"nyqumpkt"}
+{"time":"2025-03-30T12:43:10.846405016+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nyqumpkt"}
+{"time":"2025-03-30T12:43:10.846422339+05:30","level":"INFO","msg":"sender: closed","stream_id":"nyqumpkt"}
+{"time":"2025-03-30T12:43:10.846441084+05:30","level":"INFO","msg":"stream: closed","id":"nyqumpkt"}

@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [04:02<02:37, 15.71s/it]
+Episode 0-1000: Average Reward: -499.726
+Test Episode 0: Average Reward: -176.0
+
+Episode 1000-2000: Average Reward: -480.1
+Test Episode 1: Average Reward: -153.0
+
+Episode 2000-3000: Average Reward: -417.793
+Test Episode 2: Average Reward: -155.66666666666666
+
+Episode 3000-4000: Average Reward: -329.357
+Test Episode 3: Average Reward: -146.75
+
+Episode 4000-5000: Average Reward: -259.775
+Test Episode 4: Average Reward: -149.8
+
+Episode 5000-6000: Average Reward: -216.591
+Test Episode 5: Average Reward: -144.16666666666666
+
+Episode 6000-7000: Average Reward: -186.05
+Test Episode 6: Average Reward: -140.85714285714286
+
+Episode 7000-8000: Average Reward: -165.281
+Test Episode 7: Average Reward: -142.5
+
+Episode 8000-9000: Average Reward: -149.247
+Test Episode 8: Average Reward: -144.22222222222223
+
+Episode 9000-10000: Average Reward: -148.687
+Test Episode 9: Average Reward: -147.3
+
+Episode 10000-11000: Average Reward: -139.722
+Test Episode 10: Average Reward: -151.1818181818182
+
+Episode 11000-12000: Average Reward: -139.317
+Test Episode 11: Average Reward: -150.5
+
+Episode 12000-13000: Average Reward: -140.217
+Test Episode 12: Average Reward: -147.6153846153846
+
+Episode 13000-14000: Average Reward: -142.357
+Test Episode 13: Average Reward: -148.35714285714286
+
+Episode 14000-15000: Average Reward: -137.181
+Test Episode 14: Average Reward: -148.4
+
+Episode 15000-16000: Average Reward: -140.708
+Test Episode 15: Average Reward: -146.3125
+
+Episode 16000-17000: Average Reward: -135.389
+Test Episode 16: Average Reward: -146.94117647058823
+
+Episode 17000-18000: Average Reward: -149.797
+Test Episode 17: Average Reward: -150.11111111111111
+
+Episode 18000-19000: Average Reward: -171.751
+Test Episode 18: Average Reward: -150.73684210526315
+
+Episode 19000-20000: Average Reward: -152.55
+Test Episode 19: Average Reward: -150.35

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:58:42.552346945+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_125842-psa79xa6/logs/debug-core.log"}
+{"time":"2025-03-30T12:58:42.655955379+05:30","level":"INFO","msg":"created new stream","id":"psa79xa6"}
+{"time":"2025-03-30T12:58:42.655984364+05:30","level":"INFO","msg":"stream: started","id":"psa79xa6"}
+{"time":"2025-03-30T12:58:42.65599808+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"psa79xa6"}
+{"time":"2025-03-30T12:58:42.656017907+05:30","level":"INFO","msg":"sender: started","stream_id":"psa79xa6"}
+{"time":"2025-03-30T12:58:42.656001015+05:30","level":"INFO","msg":"handler: started","stream_id":"psa79xa6"}
+{"time":"2025-03-30T12:58:42.988452255+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:02:22.823859432+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:02:22.824227737+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:02:23.824598491+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.106021231,"progress":"623B/623B"}],"total_operations":1}}
+{"time":"2025-03-30T13:02:24.069595972+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:02:24.395145674+05:30","level":"INFO","msg":"stream: closing","id":"psa79xa6"}
+{"time":"2025-03-30T13:02:24.395155613+05:30","level":"INFO","msg":"handler: closed","stream_id":"psa79xa6"}
+{"time":"2025-03-30T13:02:24.395162175+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"psa79xa6"}
+{"time":"2025-03-30T13:02:24.395167205+05:30","level":"INFO","msg":"sender: closed","stream_id":"psa79xa6"}
+{"time":"2025-03-30T13:02:24.3951965+05:30","level":"INFO","msg":"stream: closed","id":"psa79xa6"}

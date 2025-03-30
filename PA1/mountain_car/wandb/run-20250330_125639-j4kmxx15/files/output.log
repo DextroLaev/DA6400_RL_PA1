@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [03:37<02:38, 15.82s/it]
+Episode 0-1000: Average Reward: -459.634
+Test Episode 0: Average Reward: -161.0
+
+Episode 1000-2000: Average Reward: -380.677
+Test Episode 1: Average Reward: -175.0
+
+Episode 2000-3000: Average Reward: -315.292
+Test Episode 2: Average Reward: -172.33333333333334
+
+Episode 3000-4000: Average Reward: -273.951
+Test Episode 3: Average Reward: -176.5
+
+Episode 4000-5000: Average Reward: -240.725
+Test Episode 4: Average Reward: -174.2
+
+Episode 5000-6000: Average Reward: -220.671
+Test Episode 5: Average Reward: -164.5
+
+Episode 6000-7000: Average Reward: -199.07
+Test Episode 6: Average Reward: -157.0
+
+Episode 7000-8000: Average Reward: -192.088
+Test Episode 7: Average Reward: -156.375
+
+Episode 8000-9000: Average Reward: -178.307
+Test Episode 8: Average Reward: -157.33333333333334
+
+Episode 9000-10000: Average Reward: -151.312
+Test Episode 9: Average Reward: -156.6
+
+Episode 10000-11000: Average Reward: -134.772
+Test Episode 10: Average Reward: -155.54545454545453
+
+Episode 11000-12000: Average Reward: -147.154
+Test Episode 11: Average Reward: -155.91666666666666
+
+Episode 12000-13000: Average Reward: -178.663
+Test Episode 12: Average Reward: -153.46153846153845
+
+Episode 13000-14000: Average Reward: -146.762
+Test Episode 13: Average Reward: -152.78571428571428
+
+Episode 14000-15000: Average Reward: -142.557
+Test Episode 14: Average Reward: -152.2
+
+Episode 15000-16000: Average Reward: -152.524
+Test Episode 15: Average Reward: -150.875
+
+Episode 16000-17000: Average Reward: -150.282
+Test Episode 16: Average Reward: -151.1764705882353
+
+Episode 17000-18000: Average Reward: -147.213
+Test Episode 17: Average Reward: -153.27777777777777
+
+Episode 18000-19000: Average Reward: -161.977
+Test Episode 18: Average Reward: -153.26315789473685
+
+Episode 19000-20000: Average Reward: -141.498
+Test Episode 19: Average Reward: -153.15

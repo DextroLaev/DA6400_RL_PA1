@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:11:57.185093131+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_131157-rkgk2sgp/logs/debug-core.log"}
+{"time":"2025-03-30T13:11:57.28881017+05:30","level":"INFO","msg":"created new stream","id":"rkgk2sgp"}
+{"time":"2025-03-30T13:11:57.288834175+05:30","level":"INFO","msg":"stream: started","id":"rkgk2sgp"}
+{"time":"2025-03-30T13:11:57.288850726+05:30","level":"INFO","msg":"handler: started","stream_id":"rkgk2sgp"}
+{"time":"2025-03-30T13:11:57.288853161+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rkgk2sgp"}
+{"time":"2025-03-30T13:11:57.288921229+05:30","level":"INFO","msg":"sender: started","stream_id":"rkgk2sgp"}
+{"time":"2025-03-30T13:11:57.587180364+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:15:10.046827557+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:15:10.047167177+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:15:11.00632548+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.349512575,"progress":"1.3KB/1.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.349507265,"progress":"191B/191B"},{"desc":"uploading config.yaml","runtime_seconds":0.103301116,"progress":"625B/625B"}],"total_operations":3}}
+{"time":"2025-03-30T13:15:11.310710472+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:15:11.912847535+05:30","level":"INFO","msg":"stream: closing","id":"rkgk2sgp"}
+{"time":"2025-03-30T13:15:11.912857203+05:30","level":"INFO","msg":"handler: closed","stream_id":"rkgk2sgp"}
+{"time":"2025-03-30T13:15:11.912865158+05:30","level":"INFO","msg":"sender: closed","stream_id":"rkgk2sgp"}
+{"time":"2025-03-30T13:15:11.912864457+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rkgk2sgp"}
+{"time":"2025-03-30T13:15:11.912912227+05:30","level":"INFO","msg":"stream: closed","id":"rkgk2sgp"}

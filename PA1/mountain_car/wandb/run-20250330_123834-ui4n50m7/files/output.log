@@ -1,0 +1,60 @@
+ 50%|███████████████████████████████████████████████████████████▌                                                           | 10/20 [03:31<02:26, 14.61s/it]
+Episode 0-1000: Average Reward: -479.367
+Test Episode 0: Average Reward: -334.0
+
+Episode 1000-2000: Average Reward: -409.803
+Test Episode 1: Average Reward: -268.0
+
+Episode 2000-3000: Average Reward: -330.959
+Test Episode 2: Average Reward: -237.0
+
+Episode 3000-4000: Average Reward: -261.95
+Test Episode 3: Average Reward: -208.75
+
+Episode 4000-5000: Average Reward: -218.475
+Test Episode 4: Average Reward: -199.8
+
+Episode 5000-6000: Average Reward: -197.264
+Test Episode 5: Average Reward: -185.5
+
+Episode 6000-7000: Average Reward: -170.427
+Test Episode 6: Average Reward: -184.57142857142858
+
+Episode 7000-8000: Average Reward: -156.38
+Test Episode 7: Average Reward: -181.0
+
+Episode 8000-9000: Average Reward: -153.556
+Test Episode 8: Average Reward: -177.0
+
+Episode 9000-10000: Average Reward: -150.068
+Test Episode 9: Average Reward: -175.0
+
+Episode 10000-11000: Average Reward: -143.909
+Test Episode 10: Average Reward: -173.72727272727272
+
+Episode 11000-12000: Average Reward: -160.877
+Test Episode 11: Average Reward: -171.16666666666666
+
+Episode 12000-13000: Average Reward: -165.039
+Test Episode 12: Average Reward: -167.07692307692307
+
+Episode 13000-14000: Average Reward: -137.19
+Test Episode 13: Average Reward: -166.14285714285714
+
+Episode 14000-15000: Average Reward: -149.491
+Test Episode 14: Average Reward: -164.53333333333333
+
+Episode 15000-16000: Average Reward: -157.8
+Test Episode 15: Average Reward: -161.375
+
+Episode 16000-17000: Average Reward: -136.006
+Test Episode 16: Average Reward: -160.8235294117647
+
+Episode 17000-18000: Average Reward: -140.394
+Test Episode 17: Average Reward: -162.94444444444446
+
+Episode 18000-19000: Average Reward: -155.967
+Test Episode 18: Average Reward: -161.94736842105263
+
+Episode 19000-20000: Average Reward: -139.941
+Test Episode 19: Average Reward: -161.7

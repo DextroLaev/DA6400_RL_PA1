@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:31:38.851632114+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_123138-rkw1zxdj/logs/debug-core.log"}
+{"time":"2025-03-30T12:31:38.955085431+05:30","level":"INFO","msg":"created new stream","id":"rkw1zxdj"}
+{"time":"2025-03-30T12:31:38.955114556+05:30","level":"INFO","msg":"stream: started","id":"rkw1zxdj"}
+{"time":"2025-03-30T12:31:38.955135605+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rkw1zxdj"}
+{"time":"2025-03-30T12:31:38.955139783+05:30","level":"INFO","msg":"sender: started","stream_id":"rkw1zxdj"}
+{"time":"2025-03-30T12:31:38.955147227+05:30","level":"INFO","msg":"handler: started","stream_id":"rkw1zxdj"}
+{"time":"2025-03-30T12:31:39.256129303+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:34:46.493820583+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:34:46.494253068+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:34:47.454151228+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.352831296,"progress":"1.3KB/1.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.352819764,"progress":"191B/191B"},{"desc":"uploading config.yaml","runtime_seconds":0.079504385,"progress":"623B/623B"}],"total_operations":3}}
+{"time":"2025-03-30T12:34:47.728753832+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:34:48.340738826+05:30","level":"INFO","msg":"stream: closing","id":"rkw1zxdj"}
+{"time":"2025-03-30T12:34:48.340756169+05:30","level":"INFO","msg":"handler: closed","stream_id":"rkw1zxdj"}
+{"time":"2025-03-30T12:34:48.340763843+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rkw1zxdj"}
+{"time":"2025-03-30T12:34:48.340775155+05:30","level":"INFO","msg":"sender: closed","stream_id":"rkw1zxdj"}
+{"time":"2025-03-30T12:34:48.340823486+05:30","level":"INFO","msg":"stream: closed","id":"rkw1zxdj"}

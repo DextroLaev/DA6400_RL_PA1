@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:13:51.210800493+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/run-20250330_131351-6964ip17/logs/debug-core.log"}
+{"time":"2025-03-30T13:13:51.314538696+05:30","level":"INFO","msg":"created new stream","id":"6964ip17"}
+{"time":"2025-03-30T13:13:51.314561709+05:30","level":"INFO","msg":"stream: started","id":"6964ip17"}
+{"time":"2025-03-30T13:13:51.314587157+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6964ip17"}
+{"time":"2025-03-30T13:13:51.314590283+05:30","level":"INFO","msg":"sender: started","stream_id":"6964ip17"}
+{"time":"2025-03-30T13:13:51.314607335+05:30","level":"INFO","msg":"handler: started","stream_id":"6964ip17"}
+{"time":"2025-03-30T13:13:51.646580097+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:17:31.656794326+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:17:31.657084613+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:17:32.657466806+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.394586073,"progress":"2.1KB/2.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.117570367,"progress":"623B/623B"}],"total_operations":2}}
+{"time":"2025-03-30T13:17:32.937200605+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:17:33.420193161+05:30","level":"INFO","msg":"stream: closing","id":"6964ip17"}
+{"time":"2025-03-30T13:17:33.420203089+05:30","level":"INFO","msg":"handler: closed","stream_id":"6964ip17"}
+{"time":"2025-03-30T13:17:33.420210193+05:30","level":"INFO","msg":"sender: closed","stream_id":"6964ip17"}
+{"time":"2025-03-30T13:17:33.42020883+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6964ip17"}
+{"time":"2025-03-30T13:17:33.420247603+05:30","level":"INFO","msg":"stream: closed","id":"6964ip17"}

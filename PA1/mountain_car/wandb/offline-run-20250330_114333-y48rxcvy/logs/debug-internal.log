@@ -1,0 +1,14 @@
+{"time":"2025-03-30T11:43:33.842205044+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/shuvrajeet/Documents/GitHub/IIT_Madras_days/Classes/DA6400_RL/PA1/mountain_car/wandb/offline-run-20250330_114333-y48rxcvy/logs/debug-core.log"}
+{"time":"2025-03-30T11:43:33.945893252+05:30","level":"INFO","msg":"created new stream","id":"y48rxcvy"}
+{"time":"2025-03-30T11:43:33.945927657+05:30","level":"INFO","msg":"stream: started","id":"y48rxcvy"}
+{"time":"2025-03-30T11:43:33.945954557+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y48rxcvy"}
+{"time":"2025-03-30T11:43:33.945981468+05:30","level":"INFO","msg":"sender: started","stream_id":"y48rxcvy"}
+{"time":"2025-03-30T11:43:33.945957122+05:30","level":"INFO","msg":"handler: started","stream_id":"y48rxcvy"}
+{"time":"2025-03-30T11:43:33.948863357+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:44:45.015956796+05:30","level":"INFO","msg":"stream: closing","id":"y48rxcvy"}
+{"time":"2025-03-30T11:44:45.015990269+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:44:45.016344797+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:44:45.016392236+05:30","level":"INFO","msg":"handler: closed","stream_id":"y48rxcvy"}
+{"time":"2025-03-30T11:44:45.016401594+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y48rxcvy"}
+{"time":"2025-03-30T11:44:45.016414729+05:30","level":"INFO","msg":"sender: closed","stream_id":"y48rxcvy"}
+{"time":"2025-03-30T11:44:45.016435247+05:30","level":"INFO","msg":"stream: closed","id":"y48rxcvy"}
