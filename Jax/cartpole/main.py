@@ -241,11 +241,10 @@ def sweep_run_qlearning_softmax():
 
 
 if __name__ == '__main__':
-    sweep_run_qlearning_softmax()
-    sweep_run_sarsa_epsilon()
+    # sweep_run_qlearning_softmax()
+    # sweep_run_sarsa_epsilon()
     
     os.makedirs('results_seeds', exist_ok=True)
-    os.makedirs('results', exist_ok=True)
     env = Environment()
         
     for i in range(5):

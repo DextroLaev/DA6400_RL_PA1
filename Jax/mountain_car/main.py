@@ -241,24 +241,23 @@ def sweep_run_qlearning_softmax():
 
 
 if __name__ == '__main__':
-    sweep_run_qlearning_softmax()
-    sweep_run_sarsa_epsilon()
+    # sweep_run_qlearning_softmax()
+    # sweep_run_sarsa_epsilon()
     
-    os.makedirs('results_seeds', exist_ok=True)
-    os.makedirs('results', exist_ok=True)
+    # os.makedirs('results_seeds', exist_ok=True)
     env = Environment()
         
-    for i in range(5):
-        rng = jax.random.PRNGKey(i)  # Set random seed for reproducibility
+    # for i in range(5):
+    #     rng = jax.random.PRNGKey(i)  # Set random seed for reproducibility
         
-        agent = QLearningSoftmax(env=env, tau_start=1, tau_end=0.02)
-        rewards, eval_rewards = train_qlearning_softmax(rng, env, agent, num_episodes_steps=20_000)
-        np.savetxt(f'results_seeds/q_learning_softmax_rewards_{i}.txt', rewards)
+    #     agent = QLearningSoftmax(env=env, tau_start=1, tau_end=0.02)
+    #     rewards, eval_rewards = train_qlearning_softmax(rng, env, agent, num_episodes_steps=20_000)
+    #     np.savetxt(f'results_seeds/q_learning_softmax_rewards_{i}.txt', rewards)
         
-        agent = SARSAEpsGreedy(env=env, epsilon_start=0.9, epsilon_end=0.01)
-        rewards, eval_rewards = train_sarsa_epsilon(rng, env, agent, num_episodes_steps=20_000)
-        np.savetxt(f'results_seeds/sarsa_epsilon_rewards_{i}.txt', rewards)
-    
+    #     agent = SARSAEpsGreedy(env=env, epsilon_start=0.9, epsilon_end=0.01)
+    #     rewards, eval_rewards = train_sarsa_epsilon(rng, env, agent, num_episodes_steps=20_000)
+    #     np.savetxt(f'results_seeds/sarsa_epsilon_rewards_{i}.txt', rewards)
+    rng = jax.random.PRNGKey(0)
     for tau_start in [2,1]:
         for tau_end in [0.01,0.02]:
             agent = QLearningSoftmax(env=env, tau_start=tau_start, tau_end=tau_end)
