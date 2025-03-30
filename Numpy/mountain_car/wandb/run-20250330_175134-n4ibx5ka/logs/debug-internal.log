@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:51:34.705318185+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_175134-n4ibx5ka/logs/debug-core.log"}
+{"time":"2025-03-30T17:51:34.808477275+05:30","level":"INFO","msg":"created new stream","id":"n4ibx5ka"}
+{"time":"2025-03-30T17:51:34.808495083+05:30","level":"INFO","msg":"stream: started","id":"n4ibx5ka"}
+{"time":"2025-03-30T17:51:34.808563133+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"n4ibx5ka"}
+{"time":"2025-03-30T17:51:34.808604527+05:30","level":"INFO","msg":"sender: started","stream_id":"n4ibx5ka"}
+{"time":"2025-03-30T17:51:34.80862119+05:30","level":"INFO","msg":"handler: started","stream_id":"n4ibx5ka"}
+{"time":"2025-03-30T17:51:35.138032055+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:54:31.240768762+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:54:31.241246413+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:54:32.241634417+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.405745004,"progress":"175B/175B"},{"desc":"uploading config.yaml","runtime_seconds":0.130765008,"progress":"561B/561B"}],"total_operations":2}}
+{"time":"2025-03-30T17:54:32.473576586+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:54:33.441430422+05:30","level":"INFO","msg":"stream: closing","id":"n4ibx5ka"}
+{"time":"2025-03-30T17:54:33.441457894+05:30","level":"INFO","msg":"handler: closed","stream_id":"n4ibx5ka"}
+{"time":"2025-03-30T17:54:33.4414717+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"n4ibx5ka"}
+{"time":"2025-03-30T17:54:33.441492129+05:30","level":"INFO","msg":"sender: closed","stream_id":"n4ibx5ka"}
+{"time":"2025-03-30T17:54:33.44157165+05:30","level":"INFO","msg":"stream: closed","id":"n4ibx5ka"}

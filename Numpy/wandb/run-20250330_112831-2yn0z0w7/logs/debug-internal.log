@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:28:31.971887289+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_112831-2yn0z0w7/logs/debug-core.log"}
+{"time":"2025-03-30T11:28:33.483016506+05:30","level":"INFO","msg":"created new stream","id":"2yn0z0w7"}
+{"time":"2025-03-30T11:28:33.483039976+05:30","level":"INFO","msg":"stream: started","id":"2yn0z0w7"}
+{"time":"2025-03-30T11:28:33.48304698+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"2yn0z0w7"}
+{"time":"2025-03-30T11:28:33.483085259+05:30","level":"INFO","msg":"handler: started","stream_id":"2yn0z0w7"}
+{"time":"2025-03-30T11:28:33.483099841+05:30","level":"INFO","msg":"sender: started","stream_id":"2yn0z0w7"}
+{"time":"2025-03-30T11:28:33.879456207+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:29:13.237138642+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:29:13.237731919+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:29:14.239331701+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.056179941,"progress":"317B/317B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.056170912,"progress":"813B/813B"}],"total_operations":2}}
+{"time":"2025-03-30T11:29:14.848562653+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:29:16.419787591+05:30","level":"INFO","msg":"stream: closing","id":"2yn0z0w7"}
+{"time":"2025-03-30T11:29:16.419798932+05:30","level":"INFO","msg":"handler: closed","stream_id":"2yn0z0w7"}
+{"time":"2025-03-30T11:29:16.419809863+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"2yn0z0w7"}
+{"time":"2025-03-30T11:29:16.419818023+05:30","level":"INFO","msg":"sender: closed","stream_id":"2yn0z0w7"}
+{"time":"2025-03-30T11:29:16.419859336+05:30","level":"INFO","msg":"stream: closed","id":"2yn0z0w7"}

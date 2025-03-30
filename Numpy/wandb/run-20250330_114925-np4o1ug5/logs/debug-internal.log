@@ -1,0 +1,10 @@
+{"time":"2025-03-30T11:49:25.473997692+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_114925-np4o1ug5/logs/debug-core.log"}
+{"time":"2025-03-30T11:49:25.57675458+05:30","level":"INFO","msg":"created new stream","id":"np4o1ug5"}
+{"time":"2025-03-30T11:49:25.576775164+05:30","level":"INFO","msg":"stream: started","id":"np4o1ug5"}
+{"time":"2025-03-30T11:49:25.576834469+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"np4o1ug5"}
+{"time":"2025-03-30T11:49:25.576858991+05:30","level":"INFO","msg":"handler: started","stream_id":"np4o1ug5"}
+{"time":"2025-03-30T11:49:25.576872175+05:30","level":"INFO","msg":"sender: started","stream_id":"np4o1ug5"}
+{"time":"2025-03-30T11:49:25.93456129+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:50:47.044097364+05:30","level":"INFO","msg":"stream: closing","id":"np4o1ug5"}
+{"time":"2025-03-30T11:50:47.044122489+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:50:47.044620593+05:30","level":"INFO","msg":"Stopped system monitor"}

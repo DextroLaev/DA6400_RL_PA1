@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:29:58.998514258+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_172958-9z8yzv0f/logs/debug-core.log"}
+{"time":"2025-03-30T17:29:59.301505697+05:30","level":"INFO","msg":"created new stream","id":"9z8yzv0f"}
+{"time":"2025-03-30T17:29:59.301526294+05:30","level":"INFO","msg":"stream: started","id":"9z8yzv0f"}
+{"time":"2025-03-30T17:29:59.301581788+05:30","level":"INFO","msg":"handler: started","stream_id":"9z8yzv0f"}
+{"time":"2025-03-30T17:29:59.301581763+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9z8yzv0f"}
+{"time":"2025-03-30T17:29:59.301621944+05:30","level":"INFO","msg":"sender: started","stream_id":"9z8yzv0f"}
+{"time":"2025-03-30T17:29:59.649371902+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:33:09.560763211+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:33:09.561189412+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:33:10.558418405+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.38445876,"progress":"655B/655B"},{"desc":"uploading config.yaml","runtime_seconds":0.113326207,"progress":"561B/561B"}],"total_operations":2}}
+{"time":"2025-03-30T17:33:10.816174547+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:33:12.294402322+05:30","level":"INFO","msg":"stream: closing","id":"9z8yzv0f"}
+{"time":"2025-03-30T17:33:12.294409279+05:30","level":"INFO","msg":"handler: closed","stream_id":"9z8yzv0f"}
+{"time":"2025-03-30T17:33:12.294421353+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9z8yzv0f"}
+{"time":"2025-03-30T17:33:12.294459422+05:30","level":"INFO","msg":"sender: closed","stream_id":"9z8yzv0f"}
+{"time":"2025-03-30T17:33:12.294465738+05:30","level":"INFO","msg":"stream: closed","id":"9z8yzv0f"}

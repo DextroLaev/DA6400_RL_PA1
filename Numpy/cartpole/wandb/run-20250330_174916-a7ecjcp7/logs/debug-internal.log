@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:49:16.663452172+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_174916-a7ecjcp7/logs/debug-core.log"}
+{"time":"2025-03-30T17:49:16.7660317+05:30","level":"INFO","msg":"created new stream","id":"a7ecjcp7"}
+{"time":"2025-03-30T17:49:16.766052928+05:30","level":"INFO","msg":"stream: started","id":"a7ecjcp7"}
+{"time":"2025-03-30T17:49:16.766069654+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"a7ecjcp7"}
+{"time":"2025-03-30T17:49:16.766167891+05:30","level":"INFO","msg":"handler: started","stream_id":"a7ecjcp7"}
+{"time":"2025-03-30T17:49:16.76618297+05:30","level":"INFO","msg":"sender: started","stream_id":"a7ecjcp7"}
+{"time":"2025-03-30T17:49:17.28284513+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:55:09.135858339+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:55:09.136436931+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:55:10.097561217+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.141105224,"progress":"634B/634B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.141094719,"progress":"146B/146B"}],"total_operations":2}}
+{"time":"2025-03-30T17:55:10.630257064+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:55:11.796244427+05:30","level":"INFO","msg":"stream: closing","id":"a7ecjcp7"}
+{"time":"2025-03-30T17:55:11.796254923+05:30","level":"INFO","msg":"handler: closed","stream_id":"a7ecjcp7"}
+{"time":"2025-03-30T17:55:11.796261134+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"a7ecjcp7"}
+{"time":"2025-03-30T17:55:11.796311411+05:30","level":"INFO","msg":"sender: closed","stream_id":"a7ecjcp7"}
+{"time":"2025-03-30T17:55:11.796316017+05:30","level":"INFO","msg":"stream: closed","id":"a7ecjcp7"}

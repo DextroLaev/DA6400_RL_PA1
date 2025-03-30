@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:22:01.235592578+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_172201-79bv8stq/logs/debug-core.log"}
+{"time":"2025-03-30T17:22:01.339184981+05:30","level":"INFO","msg":"created new stream","id":"79bv8stq"}
+{"time":"2025-03-30T17:22:01.339220198+05:30","level":"INFO","msg":"stream: started","id":"79bv8stq"}
+{"time":"2025-03-30T17:22:01.339248324+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"79bv8stq"}
+{"time":"2025-03-30T17:22:01.339253761+05:30","level":"INFO","msg":"handler: started","stream_id":"79bv8stq"}
+{"time":"2025-03-30T17:22:01.339296968+05:30","level":"INFO","msg":"sender: started","stream_id":"79bv8stq"}
+{"time":"2025-03-30T17:22:01.694131546+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:25:20.483670919+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:25:20.484217333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:25:21.481334117+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.307222129,"progress":"634B/634B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.307212178,"progress":"173B/173B"}],"total_operations":2}}
+{"time":"2025-03-30T17:25:21.862727502+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:25:22.580923459+05:30","level":"INFO","msg":"stream: closing","id":"79bv8stq"}
+{"time":"2025-03-30T17:25:22.580939888+05:30","level":"INFO","msg":"handler: closed","stream_id":"79bv8stq"}
+{"time":"2025-03-30T17:25:22.580949325+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"79bv8stq"}
+{"time":"2025-03-30T17:25:22.580958781+05:30","level":"INFO","msg":"sender: closed","stream_id":"79bv8stq"}
+{"time":"2025-03-30T17:25:22.581019037+05:30","level":"INFO","msg":"stream: closed","id":"79bv8stq"}

@@ -1,0 +1,16 @@
+{
+  "os": "Linux-6.8.0-56-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-03-30T11:05:44.260464Z",
+  "program": "/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/CartPole.py",
+  "codePath": "Numpy/cartpole/CartPole.py",
+  "git": {
+    "remote": "https://github.com/DextroLaev/DA6400_RL_PA1.git",
+    "commit": "342b62ac332199b74a043fcfa1d79d9dd5fed35f"
+  },
+  "email": "cs24s031@smail.iitm.ac.in",
+  "root": "/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole",
+  "host": "dextrolaev",
+  "executable": "/home/dextrolaev/Desktop/RL/RL_ENV/bin/python",
+  "codePathLocal": "CartPole.py"
+}

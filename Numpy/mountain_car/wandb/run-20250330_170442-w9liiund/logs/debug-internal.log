@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:04:42.848444243+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_170442-w9liiund/logs/debug-core.log"}
+{"time":"2025-03-30T17:04:42.952147832+05:30","level":"INFO","msg":"created new stream","id":"w9liiund"}
+{"time":"2025-03-30T17:04:42.952174196+05:30","level":"INFO","msg":"stream: started","id":"w9liiund"}
+{"time":"2025-03-30T17:04:42.952254955+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w9liiund"}
+{"time":"2025-03-30T17:04:42.952289429+05:30","level":"INFO","msg":"sender: started","stream_id":"w9liiund"}
+{"time":"2025-03-30T17:04:42.952274314+05:30","level":"INFO","msg":"handler: started","stream_id":"w9liiund"}
+{"time":"2025-03-30T17:04:43.310868254+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:06:52.667439469+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:06:52.667945006+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:06:53.668409639+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.397715785,"progress":"651B/651B"},{"desc":"uploading config.yaml","runtime_seconds":0.08838035,"progress":"563B/563B"}],"total_operations":2}}
+{"time":"2025-03-30T17:06:53.96014531+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:06:54.841081421+05:30","level":"INFO","msg":"stream: closing","id":"w9liiund"}
+{"time":"2025-03-30T17:06:54.841093891+05:30","level":"INFO","msg":"handler: closed","stream_id":"w9liiund"}
+{"time":"2025-03-30T17:06:54.841101164+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w9liiund"}
+{"time":"2025-03-30T17:06:54.841105644+05:30","level":"INFO","msg":"sender: closed","stream_id":"w9liiund"}
+{"time":"2025-03-30T17:06:54.841154608+05:30","level":"INFO","msg":"stream: closed","id":"w9liiund"}

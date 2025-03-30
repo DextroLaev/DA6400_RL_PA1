@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:30:21.710977267+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_173021-6pr11g5i/logs/debug-core.log"}
+{"time":"2025-03-30T17:30:21.814908575+05:30","level":"INFO","msg":"created new stream","id":"6pr11g5i"}
+{"time":"2025-03-30T17:30:21.814960926+05:30","level":"INFO","msg":"stream: started","id":"6pr11g5i"}
+{"time":"2025-03-30T17:30:21.814962205+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6pr11g5i"}
+{"time":"2025-03-30T17:30:21.814964977+05:30","level":"INFO","msg":"handler: started","stream_id":"6pr11g5i"}
+{"time":"2025-03-30T17:30:21.814999558+05:30","level":"INFO","msg":"sender: started","stream_id":"6pr11g5i"}
+{"time":"2025-03-30T17:30:22.169638049+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:32:57.435727679+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:32:57.436415078+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:32:58.426334824+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.383197375,"progress":"653B/653B"},{"desc":"uploading config.yaml","runtime_seconds":0.082871189,"progress":"562B/562B"}],"total_operations":2}}
+{"time":"2025-03-30T17:32:58.72116857+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:32:59.656513208+05:30","level":"INFO","msg":"stream: closing","id":"6pr11g5i"}
+{"time":"2025-03-30T17:32:59.656528696+05:30","level":"INFO","msg":"handler: closed","stream_id":"6pr11g5i"}
+{"time":"2025-03-30T17:32:59.656536462+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6pr11g5i"}
+{"time":"2025-03-30T17:32:59.65654479+05:30","level":"INFO","msg":"sender: closed","stream_id":"6pr11g5i"}
+{"time":"2025-03-30T17:32:59.656584965+05:30","level":"INFO","msg":"stream: closed","id":"6pr11g5i"}

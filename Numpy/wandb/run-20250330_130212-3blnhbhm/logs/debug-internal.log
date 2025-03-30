@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:02:12.977302262+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_130212-3blnhbhm/logs/debug-core.log"}
+{"time":"2025-03-30T13:02:13.080841576+05:30","level":"INFO","msg":"created new stream","id":"3blnhbhm"}
+{"time":"2025-03-30T13:02:13.080881485+05:30","level":"INFO","msg":"stream: started","id":"3blnhbhm"}
+{"time":"2025-03-30T13:02:13.080923928+05:30","level":"INFO","msg":"sender: started","stream_id":"3blnhbhm"}
+{"time":"2025-03-30T13:02:13.080920431+05:30","level":"INFO","msg":"handler: started","stream_id":"3blnhbhm"}
+{"time":"2025-03-30T13:02:13.080920204+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3blnhbhm"}
+{"time":"2025-03-30T13:02:13.492464246+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:07:40.202972477+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:07:40.20344558+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:07:41.165999275+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.194890288,"progress":"634B/634B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.194883346,"progress":"159B/159B"}],"total_operations":2}}
+{"time":"2025-03-30T13:07:42.405549507+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:07:43.512801004+05:30","level":"INFO","msg":"stream: closing","id":"3blnhbhm"}
+{"time":"2025-03-30T13:07:43.512838298+05:30","level":"INFO","msg":"handler: closed","stream_id":"3blnhbhm"}
+{"time":"2025-03-30T13:07:43.512847968+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3blnhbhm"}
+{"time":"2025-03-30T13:07:43.512855032+05:30","level":"INFO","msg":"sender: closed","stream_id":"3blnhbhm"}
+{"time":"2025-03-30T13:07:43.513008961+05:30","level":"INFO","msg":"stream: closed","id":"3blnhbhm"}

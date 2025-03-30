@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:48:43.17306333+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_174843-chj6ovq9/logs/debug-core.log"}
+{"time":"2025-03-30T17:48:43.275687386+05:30","level":"INFO","msg":"created new stream","id":"chj6ovq9"}
+{"time":"2025-03-30T17:48:43.275713959+05:30","level":"INFO","msg":"stream: started","id":"chj6ovq9"}
+{"time":"2025-03-30T17:48:43.275842091+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"chj6ovq9"}
+{"time":"2025-03-30T17:48:43.275876452+05:30","level":"INFO","msg":"handler: started","stream_id":"chj6ovq9"}
+{"time":"2025-03-30T17:48:43.275847888+05:30","level":"INFO","msg":"sender: started","stream_id":"chj6ovq9"}
+{"time":"2025-03-30T17:48:43.615890957+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:51:26.810611244+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:51:26.811006955+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:51:27.771930951+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.961065572}],"total_operations":1}}
+{"time":"2025-03-30T17:51:29.903950524+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:51:30.964754976+05:30","level":"INFO","msg":"stream: closing","id":"chj6ovq9"}
+{"time":"2025-03-30T17:51:30.964768947+05:30","level":"INFO","msg":"handler: closed","stream_id":"chj6ovq9"}
+{"time":"2025-03-30T17:51:30.964780915+05:30","level":"INFO","msg":"sender: closed","stream_id":"chj6ovq9"}
+{"time":"2025-03-30T17:51:30.964777233+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"chj6ovq9"}
+{"time":"2025-03-30T17:51:30.964841116+05:30","level":"INFO","msg":"stream: closed","id":"chj6ovq9"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:48:12.303016013+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_114812-ancimzj1/logs/debug-core.log"}
+{"time":"2025-03-30T11:48:13.812421842+05:30","level":"INFO","msg":"created new stream","id":"ancimzj1"}
+{"time":"2025-03-30T11:48:13.812447881+05:30","level":"INFO","msg":"stream: started","id":"ancimzj1"}
+{"time":"2025-03-30T11:48:13.812471032+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ancimzj1"}
+{"time":"2025-03-30T11:48:13.812476068+05:30","level":"INFO","msg":"sender: started","stream_id":"ancimzj1"}
+{"time":"2025-03-30T11:48:13.812501459+05:30","level":"INFO","msg":"handler: started","stream_id":"ancimzj1"}
+{"time":"2025-03-30T11:48:14.175385886+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:49:20.047194559+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:49:20.047610199+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:49:21.048306741+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.363605187,"progress":"322B/322B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.363592856,"progress":"151B/151B"},{"desc":"uploading config.yaml","runtime_seconds":0.058356849,"progress":"541B/541B"}],"total_operations":3}}
+{"time":"2025-03-30T11:49:21.359301279+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:49:21.728889933+05:30","level":"INFO","msg":"stream: closing","id":"ancimzj1"}
+{"time":"2025-03-30T11:49:21.728909311+05:30","level":"INFO","msg":"handler: closed","stream_id":"ancimzj1"}
+{"time":"2025-03-30T11:49:21.728919012+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ancimzj1"}
+{"time":"2025-03-30T11:49:21.728933965+05:30","level":"INFO","msg":"sender: closed","stream_id":"ancimzj1"}
+{"time":"2025-03-30T11:49:21.72900282+05:30","level":"INFO","msg":"stream: closed","id":"ancimzj1"}

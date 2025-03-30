@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:48:09.908361993+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_124809-ktored9z/logs/debug-core.log"}
+{"time":"2025-03-30T12:48:10.012423039+05:30","level":"INFO","msg":"created new stream","id":"ktored9z"}
+{"time":"2025-03-30T12:48:10.012451832+05:30","level":"INFO","msg":"stream: started","id":"ktored9z"}
+{"time":"2025-03-30T12:48:10.012465164+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ktored9z"}
+{"time":"2025-03-30T12:48:10.012488962+05:30","level":"INFO","msg":"sender: started","stream_id":"ktored9z"}
+{"time":"2025-03-30T12:48:10.012482714+05:30","level":"INFO","msg":"handler: started","stream_id":"ktored9z"}
+{"time":"2025-03-30T12:48:10.362121893+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:51:38.539333425+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:51:38.539858828+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:51:39.502731844+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.235232318,"progress":"628B/628B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.235219879,"progress":"171B/171B"}],"total_operations":2}}
+{"time":"2025-03-30T12:51:40.573406638+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:51:41.377940447+05:30","level":"INFO","msg":"stream: closing","id":"ktored9z"}
+{"time":"2025-03-30T12:51:41.377952072+05:30","level":"INFO","msg":"handler: closed","stream_id":"ktored9z"}
+{"time":"2025-03-30T12:51:41.377959269+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ktored9z"}
+{"time":"2025-03-30T12:51:41.377967838+05:30","level":"INFO","msg":"sender: closed","stream_id":"ktored9z"}
+{"time":"2025-03-30T12:51:41.378003249+05:30","level":"INFO","msg":"stream: closed","id":"ktored9z"}

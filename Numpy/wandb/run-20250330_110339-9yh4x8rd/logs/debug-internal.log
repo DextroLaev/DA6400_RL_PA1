@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:03:39.428711355+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_110339-9yh4x8rd/logs/debug-core.log"}
+{"time":"2025-03-30T11:03:40.944913013+05:30","level":"INFO","msg":"created new stream","id":"9yh4x8rd"}
+{"time":"2025-03-30T11:03:40.945005149+05:30","level":"INFO","msg":"stream: started","id":"9yh4x8rd"}
+{"time":"2025-03-30T11:03:40.945232936+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9yh4x8rd"}
+{"time":"2025-03-30T11:03:40.945324042+05:30","level":"INFO","msg":"sender: started","stream_id":"9yh4x8rd"}
+{"time":"2025-03-30T11:03:40.945398385+05:30","level":"INFO","msg":"handler: started","stream_id":"9yh4x8rd"}
+{"time":"2025-03-30T11:03:41.364683966+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:05:09.105660387+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:05:09.105968866+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:05:10.106493787+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.379702439,"progress":"118B/118B"},{"desc":"uploading config.yaml","runtime_seconds":0.084981228,"progress":"620B/620B"}],"total_operations":2}}
+{"time":"2025-03-30T11:05:10.392968227+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:05:10.771644509+05:30","level":"INFO","msg":"stream: closing","id":"9yh4x8rd"}
+{"time":"2025-03-30T11:05:10.771674695+05:30","level":"INFO","msg":"handler: closed","stream_id":"9yh4x8rd"}
+{"time":"2025-03-30T11:05:10.771689934+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9yh4x8rd"}
+{"time":"2025-03-30T11:05:10.771798329+05:30","level":"INFO","msg":"sender: closed","stream_id":"9yh4x8rd"}
+{"time":"2025-03-30T11:05:10.771893081+05:30","level":"INFO","msg":"stream: closed","id":"9yh4x8rd"}

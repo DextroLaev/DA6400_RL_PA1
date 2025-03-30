@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:20:06.567386826+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_122006-5gy272j1/logs/debug-core.log"}
+{"time":"2025-03-30T12:20:06.669680044+05:30","level":"INFO","msg":"created new stream","id":"5gy272j1"}
+{"time":"2025-03-30T12:20:06.669702465+05:30","level":"INFO","msg":"stream: started","id":"5gy272j1"}
+{"time":"2025-03-30T12:20:06.669880754+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5gy272j1"}
+{"time":"2025-03-30T12:20:06.670191351+05:30","level":"INFO","msg":"handler: started","stream_id":"5gy272j1"}
+{"time":"2025-03-30T12:20:06.669886397+05:30","level":"INFO","msg":"sender: started","stream_id":"5gy272j1"}
+{"time":"2025-03-30T12:20:07.004931017+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:25:00.851850598+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:25:00.852437374+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:25:01.813539949+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.328642113,"progress":"633B/633B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.328625929,"progress":"159B/159B"}],"total_operations":2}}
+{"time":"2025-03-30T12:25:02.234483938+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:25:03.364732004+05:30","level":"INFO","msg":"stream: closing","id":"5gy272j1"}
+{"time":"2025-03-30T12:25:03.36474272+05:30","level":"INFO","msg":"handler: closed","stream_id":"5gy272j1"}
+{"time":"2025-03-30T12:25:03.36474852+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5gy272j1"}
+{"time":"2025-03-30T12:25:03.364753084+05:30","level":"INFO","msg":"sender: closed","stream_id":"5gy272j1"}
+{"time":"2025-03-30T12:25:03.364796568+05:30","level":"INFO","msg":"stream: closed","id":"5gy272j1"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:08:03.372392503+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_170803-18owsdia/logs/debug-core.log"}
+{"time":"2025-03-30T17:08:03.479696316+05:30","level":"INFO","msg":"created new stream","id":"18owsdia"}
+{"time":"2025-03-30T17:08:03.479734231+05:30","level":"INFO","msg":"stream: started","id":"18owsdia"}
+{"time":"2025-03-30T17:08:03.479751542+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"18owsdia"}
+{"time":"2025-03-30T17:08:03.47979629+05:30","level":"INFO","msg":"handler: started","stream_id":"18owsdia"}
+{"time":"2025-03-30T17:08:03.479758414+05:30","level":"INFO","msg":"sender: started","stream_id":"18owsdia"}
+{"time":"2025-03-30T17:08:03.811618476+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:11:32.518623945+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:11:32.519233553+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:11:33.480267084+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.33489262,"progress":"634B/634B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.334881256,"progress":"149B/149B"},{"desc":"uploading config.yaml","runtime_seconds":0.04171103,"progress":"560B/560B"}],"total_operations":3}}
+{"time":"2025-03-30T17:11:33.797643072+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:11:34.736439907+05:30","level":"INFO","msg":"stream: closing","id":"18owsdia"}
+{"time":"2025-03-30T17:11:34.73645732+05:30","level":"INFO","msg":"handler: closed","stream_id":"18owsdia"}
+{"time":"2025-03-30T17:11:34.736467676+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"18owsdia"}
+{"time":"2025-03-30T17:11:34.736473072+05:30","level":"INFO","msg":"sender: closed","stream_id":"18owsdia"}
+{"time":"2025-03-30T17:11:34.736531782+05:30","level":"INFO","msg":"stream: closed","id":"18owsdia"}

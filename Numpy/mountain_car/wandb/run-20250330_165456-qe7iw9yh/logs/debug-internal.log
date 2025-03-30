@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:54:56.433746797+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_165456-qe7iw9yh/logs/debug-core.log"}
+{"time":"2025-03-30T16:54:57.540559273+05:30","level":"INFO","msg":"created new stream","id":"qe7iw9yh"}
+{"time":"2025-03-30T16:54:57.540586582+05:30","level":"INFO","msg":"stream: started","id":"qe7iw9yh"}
+{"time":"2025-03-30T16:54:57.540625483+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qe7iw9yh"}
+{"time":"2025-03-30T16:54:57.540645373+05:30","level":"INFO","msg":"sender: started","stream_id":"qe7iw9yh"}
+{"time":"2025-03-30T16:54:57.540697301+05:30","level":"INFO","msg":"handler: started","stream_id":"qe7iw9yh"}
+{"time":"2025-03-30T16:54:57.898159946+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:57:05.190409846+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:57:05.1909779+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:57:06.180775408+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.19983637,"progress":"652B/652B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.19982489,"progress":"141B/141B"}],"total_operations":2}}
+{"time":"2025-03-30T16:57:06.642901515+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:57:08.229621587+05:30","level":"INFO","msg":"stream: closing","id":"qe7iw9yh"}
+{"time":"2025-03-30T16:57:08.229638058+05:30","level":"INFO","msg":"handler: closed","stream_id":"qe7iw9yh"}
+{"time":"2025-03-30T16:57:08.229647797+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qe7iw9yh"}
+{"time":"2025-03-30T16:57:08.229655558+05:30","level":"INFO","msg":"sender: closed","stream_id":"qe7iw9yh"}
+{"time":"2025-03-30T16:57:08.229706216+05:30","level":"INFO","msg":"stream: closed","id":"qe7iw9yh"}

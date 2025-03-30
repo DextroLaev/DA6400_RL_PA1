@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:55:12.167861329+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_125512-hvnig8fc/logs/debug-core.log"}
+{"time":"2025-03-30T12:55:12.27044812+05:30","level":"INFO","msg":"created new stream","id":"hvnig8fc"}
+{"time":"2025-03-30T12:55:12.270477556+05:30","level":"INFO","msg":"stream: started","id":"hvnig8fc"}
+{"time":"2025-03-30T12:55:12.27050232+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hvnig8fc"}
+{"time":"2025-03-30T12:55:12.270589451+05:30","level":"INFO","msg":"sender: started","stream_id":"hvnig8fc"}
+{"time":"2025-03-30T12:55:12.270658469+05:30","level":"INFO","msg":"handler: started","stream_id":"hvnig8fc"}
+{"time":"2025-03-30T12:55:12.739931112+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:58:06.920133682+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:58:06.920661207+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:58:07.881598648+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.339010692,"progress":"630B/630B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.338982419,"progress":"151B/151B"},{"desc":"uploading config.yaml","runtime_seconds":0.007260616,"progress":"594B/594B"}],"total_operations":3}}
+{"time":"2025-03-30T12:58:08.875988309+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:58:09.75054027+05:30","level":"INFO","msg":"stream: closing","id":"hvnig8fc"}
+{"time":"2025-03-30T12:58:09.750549663+05:30","level":"INFO","msg":"handler: closed","stream_id":"hvnig8fc"}
+{"time":"2025-03-30T12:58:09.750555256+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hvnig8fc"}
+{"time":"2025-03-30T12:58:09.750564838+05:30","level":"INFO","msg":"sender: closed","stream_id":"hvnig8fc"}
+{"time":"2025-03-30T12:58:09.750595808+05:30","level":"INFO","msg":"stream: closed","id":"hvnig8fc"}

@@ -1,0 +1,15 @@
+{"time":"2025-03-30T10:54:11.131323051+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_105411-hkx32wdf/logs/debug-core.log"}
+{"time":"2025-03-30T10:54:11.24654101+05:30","level":"INFO","msg":"created new stream","id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:11.246634055+05:30","level":"INFO","msg":"stream: started","id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:11.246664649+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:11.246799249+05:30","level":"INFO","msg":"handler: started","stream_id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:11.24683724+05:30","level":"INFO","msg":"sender: started","stream_id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:11.612760836+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T10:54:22.713248068+05:30","level":"INFO","msg":"stream: closing","id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:22.713277433+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T10:54:22.713616951+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T10:54:23.763658269+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T10:54:24.09354738+05:30","level":"INFO","msg":"handler: closed","stream_id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:24.093572748+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:24.093618686+05:30","level":"INFO","msg":"sender: closed","stream_id":"hkx32wdf"}
+{"time":"2025-03-30T10:54:24.093623743+05:30","level":"INFO","msg":"stream: closed","id":"hkx32wdf"}

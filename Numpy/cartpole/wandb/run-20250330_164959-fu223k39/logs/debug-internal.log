@@ -1,0 +1,16 @@
+{"time":"2025-03-30T16:49:59.408876468+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_164959-fu223k39/logs/debug-core.log"}
+{"time":"2025-03-30T16:49:59.512695046+05:30","level":"INFO","msg":"created new stream","id":"fu223k39"}
+{"time":"2025-03-30T16:49:59.512719612+05:30","level":"INFO","msg":"stream: started","id":"fu223k39"}
+{"time":"2025-03-30T16:49:59.512773723+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fu223k39"}
+{"time":"2025-03-30T16:49:59.512779802+05:30","level":"INFO","msg":"sender: started","stream_id":"fu223k39"}
+{"time":"2025-03-30T16:49:59.512836236+05:30","level":"INFO","msg":"handler: started","stream_id":"fu223k39"}
+{"time":"2025-03-30T16:49:59.836771271+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T16:57:35.521556155+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T16:57:35.522080191+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T16:57:36.522667505+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.392661436,"progress":"634B/634B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.39265186,"progress":"148B/148B"},{"desc":"uploading config.yaml","runtime_seconds":0.100240956,"progress":"561B/561B"}],"total_operations":3}}
+{"time":"2025-03-30T16:57:36.786591413+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T16:57:37.679696358+05:30","level":"INFO","msg":"stream: closing","id":"fu223k39"}
+{"time":"2025-03-30T16:57:37.679717065+05:30","level":"INFO","msg":"handler: closed","stream_id":"fu223k39"}
+{"time":"2025-03-30T16:57:37.679728089+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fu223k39"}
+{"time":"2025-03-30T16:57:37.679732726+05:30","level":"INFO","msg":"sender: closed","stream_id":"fu223k39"}
+{"time":"2025-03-30T16:57:37.679786311+05:30","level":"INFO","msg":"stream: closed","id":"fu223k39"}

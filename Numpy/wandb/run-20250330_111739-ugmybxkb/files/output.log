@@ -1,0 +1,5 @@
+Training using Qlearning...
+Episode: 0 Reward:-  27.0
+Episode: 1000 Reward:-  1000.0
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Episode: 2000 Reward:-  347.0

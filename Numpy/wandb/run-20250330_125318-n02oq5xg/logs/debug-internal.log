@@ -1,0 +1,16 @@
+{"time":"2025-03-30T12:53:18.157923738+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_125318-n02oq5xg/logs/debug-core.log"}
+{"time":"2025-03-30T12:53:18.261329196+05:30","level":"INFO","msg":"created new stream","id":"n02oq5xg"}
+{"time":"2025-03-30T12:53:18.261349734+05:30","level":"INFO","msg":"stream: started","id":"n02oq5xg"}
+{"time":"2025-03-30T12:53:18.261406038+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"n02oq5xg"}
+{"time":"2025-03-30T12:53:18.261436241+05:30","level":"INFO","msg":"sender: started","stream_id":"n02oq5xg"}
+{"time":"2025-03-30T12:53:18.261460054+05:30","level":"INFO","msg":"handler: started","stream_id":"n02oq5xg"}
+{"time":"2025-03-30T12:53:18.644466161+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T12:55:18.541065879+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T12:55:18.541496625+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T12:55:19.502249158+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.270093012,"progress":"324B/324B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.270084991,"progress":"158B/158B"},{"desc":"uploading history steps 0-9901, summary, console lines 10-10","runtime_seconds":0.115295869}],"total_operations":3}}
+{"time":"2025-03-30T12:55:20.579248478+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T12:55:20.883611838+05:30","level":"INFO","msg":"stream: closing","id":"n02oq5xg"}
+{"time":"2025-03-30T12:55:20.883619928+05:30","level":"INFO","msg":"handler: closed","stream_id":"n02oq5xg"}
+{"time":"2025-03-30T12:55:20.883624349+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"n02oq5xg"}
+{"time":"2025-03-30T12:55:20.883633005+05:30","level":"INFO","msg":"sender: closed","stream_id":"n02oq5xg"}
+{"time":"2025-03-30T12:55:20.88365703+05:30","level":"INFO","msg":"stream: closed","id":"n02oq5xg"}

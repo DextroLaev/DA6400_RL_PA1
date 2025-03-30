@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:17:35.250191208+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_171735-i0q7pgxb/logs/debug-core.log"}
+{"time":"2025-03-30T17:17:35.353733447+05:30","level":"INFO","msg":"created new stream","id":"i0q7pgxb"}
+{"time":"2025-03-30T17:17:35.353779602+05:30","level":"INFO","msg":"stream: started","id":"i0q7pgxb"}
+{"time":"2025-03-30T17:17:35.353815017+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"i0q7pgxb"}
+{"time":"2025-03-30T17:17:35.353820708+05:30","level":"INFO","msg":"sender: started","stream_id":"i0q7pgxb"}
+{"time":"2025-03-30T17:17:35.353837403+05:30","level":"INFO","msg":"handler: started","stream_id":"i0q7pgxb"}
+{"time":"2025-03-30T17:17:35.695286566+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:19:17.325220517+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:19:17.32565055+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:19:18.326228616+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.396514723,"progress":"627B/627B"},{"desc":"uploading config.yaml","runtime_seconds":0.101960887,"progress":"564B/564B"}],"total_operations":2}}
+{"time":"2025-03-30T17:19:18.593031751+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:19:19.881000959+05:30","level":"INFO","msg":"stream: closing","id":"i0q7pgxb"}
+{"time":"2025-03-30T17:19:19.881016971+05:30","level":"INFO","msg":"handler: closed","stream_id":"i0q7pgxb"}
+{"time":"2025-03-30T17:19:19.881025985+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"i0q7pgxb"}
+{"time":"2025-03-30T17:19:19.881031697+05:30","level":"INFO","msg":"sender: closed","stream_id":"i0q7pgxb"}
+{"time":"2025-03-30T17:19:19.881107784+05:30","level":"INFO","msg":"stream: closed","id":"i0q7pgxb"}

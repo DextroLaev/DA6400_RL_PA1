@@ -1,0 +1,16 @@
+{"time":"2025-03-30T13:25:09.141236373+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_132509-rbgqhk2m/logs/debug-core.log"}
+{"time":"2025-03-30T13:25:10.856901714+05:30","level":"INFO","msg":"created new stream","id":"rbgqhk2m"}
+{"time":"2025-03-30T13:25:10.856964073+05:30","level":"INFO","msg":"stream: started","id":"rbgqhk2m"}
+{"time":"2025-03-30T13:25:10.857155482+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rbgqhk2m"}
+{"time":"2025-03-30T13:25:10.857195057+05:30","level":"INFO","msg":"sender: started","stream_id":"rbgqhk2m"}
+{"time":"2025-03-30T13:25:10.85720043+05:30","level":"INFO","msg":"handler: started","stream_id":"rbgqhk2m"}
+{"time":"2025-03-30T13:25:11.285305497+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T13:27:30.247815462+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T13:27:30.24822724+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T13:27:31.254326427+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.380555584,"progress":"158B/158B"},{"desc":"uploading config.yaml","runtime_seconds":0.101743981,"progress":"562B/562B"}],"total_operations":2}}
+{"time":"2025-03-30T13:27:31.522528514+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T13:27:32.055635701+05:30","level":"INFO","msg":"stream: closing","id":"rbgqhk2m"}
+{"time":"2025-03-30T13:27:32.0556939+05:30","level":"INFO","msg":"handler: closed","stream_id":"rbgqhk2m"}
+{"time":"2025-03-30T13:27:32.055728139+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rbgqhk2m"}
+{"time":"2025-03-30T13:27:32.055759198+05:30","level":"INFO","msg":"sender: closed","stream_id":"rbgqhk2m"}
+{"time":"2025-03-30T13:27:32.055984546+05:30","level":"INFO","msg":"stream: closed","id":"rbgqhk2m"}

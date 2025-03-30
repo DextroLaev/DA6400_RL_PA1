@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:09:02.726173227+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_170902-78m8z8yk/logs/debug-core.log"}
+{"time":"2025-03-30T17:09:02.830242761+05:30","level":"INFO","msg":"created new stream","id":"78m8z8yk"}
+{"time":"2025-03-30T17:09:02.830292463+05:30","level":"INFO","msg":"stream: started","id":"78m8z8yk"}
+{"time":"2025-03-30T17:09:02.830309769+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"78m8z8yk"}
+{"time":"2025-03-30T17:09:02.830353133+05:30","level":"INFO","msg":"sender: started","stream_id":"78m8z8yk"}
+{"time":"2025-03-30T17:09:02.830368667+05:30","level":"INFO","msg":"handler: started","stream_id":"78m8z8yk"}
+{"time":"2025-03-30T17:09:03.160900687+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:10:05.567590092+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:10:05.56816628+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:10:06.528854882+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.351863157,"progress":"135B/135B"},{"desc":"uploading config.yaml","runtime_seconds":0.06924889,"progress":"563B/563B"}],"total_operations":2}}
+{"time":"2025-03-30T17:10:06.818747414+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:10:07.758454184+05:30","level":"INFO","msg":"stream: closing","id":"78m8z8yk"}
+{"time":"2025-03-30T17:10:07.75847122+05:30","level":"INFO","msg":"handler: closed","stream_id":"78m8z8yk"}
+{"time":"2025-03-30T17:10:07.75847901+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"78m8z8yk"}
+{"time":"2025-03-30T17:10:07.75848774+05:30","level":"INFO","msg":"sender: closed","stream_id":"78m8z8yk"}
+{"time":"2025-03-30T17:10:07.758522182+05:30","level":"INFO","msg":"stream: closed","id":"78m8z8yk"}

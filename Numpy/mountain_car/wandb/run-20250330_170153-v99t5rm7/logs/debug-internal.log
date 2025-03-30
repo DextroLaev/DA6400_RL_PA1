@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:01:53.997597368+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/mountain_car/wandb/run-20250330_170153-v99t5rm7/logs/debug-core.log"}
+{"time":"2025-03-30T17:01:54.100919767+05:30","level":"INFO","msg":"created new stream","id":"v99t5rm7"}
+{"time":"2025-03-30T17:01:54.100940542+05:30","level":"INFO","msg":"stream: started","id":"v99t5rm7"}
+{"time":"2025-03-30T17:01:54.100968859+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"v99t5rm7"}
+{"time":"2025-03-30T17:01:54.10100838+05:30","level":"INFO","msg":"sender: started","stream_id":"v99t5rm7"}
+{"time":"2025-03-30T17:01:54.101028932+05:30","level":"INFO","msg":"handler: started","stream_id":"v99t5rm7"}
+{"time":"2025-03-30T17:01:54.429683033+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:03:42.688408588+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:03:42.688959651+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:03:43.689348018+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.400609667,"progress":"150B/150B"},{"desc":"uploading config.yaml","runtime_seconds":0.09357354,"progress":"560B/560B"}],"total_operations":2}}
+{"time":"2025-03-30T17:03:43.959293568+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:03:44.822841264+05:30","level":"INFO","msg":"stream: closing","id":"v99t5rm7"}
+{"time":"2025-03-30T17:03:44.822859102+05:30","level":"INFO","msg":"handler: closed","stream_id":"v99t5rm7"}
+{"time":"2025-03-30T17:03:44.822867746+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"v99t5rm7"}
+{"time":"2025-03-30T17:03:44.822874149+05:30","level":"INFO","msg":"sender: closed","stream_id":"v99t5rm7"}
+{"time":"2025-03-30T17:03:44.822942968+05:30","level":"INFO","msg":"stream: closed","id":"v99t5rm7"}

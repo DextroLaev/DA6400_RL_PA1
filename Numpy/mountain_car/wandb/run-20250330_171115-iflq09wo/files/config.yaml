@@ -1,0 +1,32 @@
+_wandb:
+    value:
+        cli_version: 0.19.8
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 55
+            "2":
+                - 55
+            "3":
+                - 2
+                - 14
+                - 17
+                - 23
+                - 55
+            "4": 3.12.3
+            "5": 0.19.8
+            "8":
+                - 5
+            "12": 0.19.8
+            "13": linux-x86_64
+alpha:
+    value: 0.2
+episodes:
+    value: 20000
+eps_end:
+    value: 0.01
+eps_start:
+    value: 1
+steps:
+    value: 1000

@@ -1,0 +1,16 @@
+{"time":"2025-03-30T17:11:45.505957713+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/cartpole/wandb/run-20250330_171145-wumeltmt/logs/debug-core.log"}
+{"time":"2025-03-30T17:11:45.610567882+05:30","level":"INFO","msg":"created new stream","id":"wumeltmt"}
+{"time":"2025-03-30T17:11:45.610615815+05:30","level":"INFO","msg":"stream: started","id":"wumeltmt"}
+{"time":"2025-03-30T17:11:45.610670648+05:30","level":"INFO","msg":"handler: started","stream_id":"wumeltmt"}
+{"time":"2025-03-30T17:11:45.610649787+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wumeltmt"}
+{"time":"2025-03-30T17:11:45.610696771+05:30","level":"INFO","msg":"sender: started","stream_id":"wumeltmt"}
+{"time":"2025-03-30T17:11:45.960976335+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T17:15:15.566263498+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T17:15:15.567401692+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T17:15:16.526027714+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.385408806,"progress":"173B/173B"},{"desc":"uploading config.yaml","runtime_seconds":0.101638184,"progress":"560B/560B"}],"total_operations":2}}
+{"time":"2025-03-30T17:15:16.83735708+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T17:15:18.183978495+05:30","level":"INFO","msg":"stream: closing","id":"wumeltmt"}
+{"time":"2025-03-30T17:15:18.183996155+05:30","level":"INFO","msg":"handler: closed","stream_id":"wumeltmt"}
+{"time":"2025-03-30T17:15:18.184005323+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wumeltmt"}
+{"time":"2025-03-30T17:15:18.184084089+05:30","level":"INFO","msg":"sender: closed","stream_id":"wumeltmt"}
+{"time":"2025-03-30T17:15:18.184092107+05:30","level":"INFO","msg":"stream: closed","id":"wumeltmt"}

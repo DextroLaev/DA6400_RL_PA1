@@ -1,0 +1,16 @@
+{"time":"2025-03-30T11:51:14.275036503+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_115114-oqlo4pul/logs/debug-core.log"}
+{"time":"2025-03-30T11:51:14.377742189+05:30","level":"INFO","msg":"created new stream","id":"oqlo4pul"}
+{"time":"2025-03-30T11:51:14.377763208+05:30","level":"INFO","msg":"stream: started","id":"oqlo4pul"}
+{"time":"2025-03-30T11:51:14.377783547+05:30","level":"INFO","msg":"handler: started","stream_id":"oqlo4pul"}
+{"time":"2025-03-30T11:51:14.377791297+05:30","level":"INFO","msg":"sender: started","stream_id":"oqlo4pul"}
+{"time":"2025-03-30T11:51:14.37780116+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"oqlo4pul"}
+{"time":"2025-03-30T11:51:14.713357134+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-30T11:53:33.062984779+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-30T11:53:33.063430741+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-30T11:53:34.029909849+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.343285281,"progress":"627B/627B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.343278197,"progress":"717B/717B"},{"desc":"uploading config.yaml","runtime_seconds":0.047720896,"progress":"540B/540B"}],"total_operations":3}}
+{"time":"2025-03-30T11:53:34.540482576+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-30T11:53:36.925935587+05:30","level":"INFO","msg":"stream: closing","id":"oqlo4pul"}
+{"time":"2025-03-30T11:53:36.925944955+05:30","level":"INFO","msg":"handler: closed","stream_id":"oqlo4pul"}
+{"time":"2025-03-30T11:53:36.925950516+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"oqlo4pul"}
+{"time":"2025-03-30T11:53:36.925953955+05:30","level":"INFO","msg":"sender: closed","stream_id":"oqlo4pul"}
+{"time":"2025-03-30T11:53:36.925989823+05:30","level":"INFO","msg":"stream: closed","id":"oqlo4pul"}

@@ -1,0 +1,7 @@
+{"time":"2025-03-30T12:14:03.777214622+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/dextrolaev/Desktop/RL/DA6400_PA_1/Numpy/wandb/run-20250330_121403-66y3yo0s/logs/debug-core.log"}
+{"time":"2025-03-30T12:14:03.880223908+05:30","level":"INFO","msg":"created new stream","id":"66y3yo0s"}
+{"time":"2025-03-30T12:14:03.880253747+05:30","level":"INFO","msg":"stream: started","id":"66y3yo0s"}
+{"time":"2025-03-30T12:14:03.880275345+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"66y3yo0s"}
+{"time":"2025-03-30T12:14:03.88028111+05:30","level":"INFO","msg":"handler: started","stream_id":"66y3yo0s"}
+{"time":"2025-03-30T12:14:03.88032746+05:30","level":"INFO","msg":"sender: started","stream_id":"66y3yo0s"}
+{"time":"2025-03-30T12:14:04.213507481+05:30","level":"INFO","msg":"Starting system monitor"}
